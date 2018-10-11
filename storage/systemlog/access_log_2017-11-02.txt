@@ -1,0 +1,169 @@
+11-02-2017 | 10:56:01 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 10:56:16 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 10:56:18 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 10:56:19 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 10:57:21 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 10:57:21 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 10:57:30 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:01:48 |   192.168.4.55|161201|Ajax Course List|http://localhost/NDUB/ndub-student/public/register/ajax-course-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:12 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:12 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC01|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:12 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC02|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:13 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC04|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:17 |   192.168.4.55|161201|Ajax Class Schedule View|http://localhost/NDUB/ndub-student/public/register/ajax-class-schedule-view/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:48 |   192.168.4.55|161201|Ajax Class Schedule View|http://localhost/NDUB/ndub-student/public/register/ajax-class-schedule-view/AC01-0101|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:48 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC02|Mozilla Firefox|windows|||
+11-02-2017 | 11:02:51 |   192.168.4.55|161201|Ajax Class Schedule View|http://localhost/NDUB/ndub-student/public/register/ajax-class-schedule-view/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:03:09 |   192.168.4.55|161201|Ajax Schedule By Program View|http://localhost/NDUB/ndub-student/public/register/ajax-schedule-by-program-view/99|Mozilla Firefox|windows|||
+11-02-2017 | 11:03:20 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC01|Mozilla Firefox|windows|||
+11-02-2017 | 11:03:34 |   192.168.4.55|161201|Ajax Class Day|http://localhost/NDUB/ndub-student/public/register/ajax-class-day/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:03:54 |   192.168.4.55|161201|Ajax Time Slot|http://localhost/NDUB/ndub-student/public/register/ajax-time-slot/AC01-0203/Sunday|Mozilla Firefox|windows|||
+11-02-2017 | 11:04:02 |   192.168.4.55|161201|Ajax Faculty List|http://localhost/NDUB/ndub-student/public/register/ajax-faculty-list/Sunday/08:30%20am-10:00%20am|Mozilla Firefox|windows|||
+11-02-2017 | 11:04:07 |   192.168.4.55|161201|Class Schedule Submit|http://localhost/NDUB/ndub-student/public/register/class-schedule-submit|Mozilla Firefox|windows|||
+11-02-2017 | 11:04:08 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:04:14 |   192.168.4.55|161201|Ajax Class Schedule View|http://localhost/NDUB/ndub-student/public/register/ajax-class-schedule-view/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:06:10 |   192.168.4.55|161201|Schedule Delete|http://localhost/NDUB/ndub-student/public/register/schedule-delete/8b8ebff3-0d42-4a80-8ccc-d112cb57a694|Mozilla Firefox|windows|||
+11-02-2017 | 11:06:11 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:06:15 |   192.168.4.55|161201|Ajax Class Schedule View|http://localhost/NDUB/ndub-student/public/register/ajax-class-schedule-view/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:08 |   192.168.4.55|161201|Ajax Course List|http://localhost/NDUB/ndub-student/public/register/ajax-course-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:08 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:11 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC01|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:14 |   192.168.4.55|161201|Ajax Class Day|http://localhost/NDUB/ndub-student/public/register/ajax-class-day/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:16 |   192.168.4.55|161201|Ajax Time Slot|http://localhost/NDUB/ndub-student/public/register/ajax-time-slot/AC01-0203/Sunday|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:19 |   192.168.4.55|161201|Ajax Faculty List|http://localhost/NDUB/ndub-student/public/register/ajax-faculty-list/Sunday/11:40%20am-01:10%20pm|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:25 |   192.168.4.55|161201|Class Schedule Submit|http://localhost/NDUB/ndub-student/public/register/class-schedule-submit|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:26 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:52 |   192.168.4.55|161201|Ajax Schedule By Program View|http://localhost/NDUB/ndub-student/public/register/ajax-schedule-by-program-view/12|Mozilla Firefox|windows|||
+11-02-2017 | 11:07:55 |   192.168.4.55|161201|Ajax Schedule By Program View|http://localhost/NDUB/ndub-student/public/register/ajax-schedule-by-program-view/0|Mozilla Firefox|windows|||
+11-02-2017 | 11:08:50 |   192.168.4.55|161201|Ajax Course List|http://localhost/NDUB/ndub-student/public/register/ajax-course-list/03|Mozilla Firefox|windows|||
+11-02-2017 | 11:08:50 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/03|Mozilla Firefox|windows|||
+11-02-2017 | 11:08:52 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:08:52 |   192.168.4.55|161201|Ajax Course List|http://localhost/NDUB/ndub-student/public/register/ajax-course-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:08:57 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC02|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:02 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC01|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:05 |   192.168.4.55|161201|Ajax Class Day|http://localhost/NDUB/ndub-student/public/register/ajax-class-day/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:11 |   192.168.4.55|161201|Ajax Time Slot|http://localhost/NDUB/ndub-student/public/register/ajax-time-slot/AC01-0203/Wednesday|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:13 |   192.168.4.55|161201|Ajax Faculty List|http://localhost/NDUB/ndub-student/public/register/ajax-faculty-list/Wednesday/01:15%20pm-02:50%20pm|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:16 |   192.168.4.55|161201|Class Schedule Submit|http://localhost/NDUB/ndub-student/public/register/class-schedule-submit|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:17 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:22 |   192.168.4.55|161201|Ajax Class Schedule View|http://localhost/NDUB/ndub-student/public/register/ajax-class-schedule-view/AC01-0203|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:43 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:43 |   192.168.4.55|161201|Ajax Course List|http://localhost/NDUB/ndub-student/public/register/ajax-course-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:50 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC01|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:54 |   192.168.4.55|161201|Ajax Class Day|http://localhost/NDUB/ndub-student/public/register/ajax-class-day/AC01-0101|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:56 |   192.168.4.55|161201|Ajax Time Slot|http://localhost/NDUB/ndub-student/public/register/ajax-time-slot/AC01-0101/Wednesday|Mozilla Firefox|windows|||
+11-02-2017 | 11:09:59 |   192.168.4.55|161201|Ajax Time Slot|http://localhost/NDUB/ndub-student/public/register/ajax-time-slot/AC01-0101/Saturday|Mozilla Firefox|windows|||
+11-02-2017 | 11:10:01 |   192.168.4.55|161201|Ajax Faculty List|http://localhost/NDUB/ndub-student/public/register/ajax-faculty-list/Saturday/10:05%20am-11:35%20am|Mozilla Firefox|windows|||
+11-02-2017 | 11:10:06 |   192.168.4.55|161201|Class Schedule Submit|http://localhost/NDUB/ndub-student/public/register/class-schedule-submit|Mozilla Firefox|windows|||
+11-02-2017 | 11:10:07 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:10:29 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 11:10:29 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 11:12:31 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:12:39 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-03&exam_type=2|Mozilla Firefox|windows|||
+11-02-2017 | 11:13:06 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Mozilla Firefox|windows|||
+11-02-2017 | 11:13:18 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-03&exam_type=2|Mozilla Firefox|windows|||
+11-02-2017 | 11:13:21 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-03/A|Mozilla Firefox|windows|||
+11-02-2017 | 11:13:30 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Mozilla Firefox|windows|||
+11-02-2017 | 11:13:40 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Mozilla Firefox|windows|||
+11-02-2017 | 11:13:41 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-03&exam_type=2|Mozilla Firefox|windows|||
+11-02-2017 | 11:36:09 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-03/A|Mozilla Firefox|windows|||
+11-02-2017 | 11:36:38 |   192.168.4.55|161201|Register Exam Invigilators Download|http://localhost/NDUB/ndub-student/public/register/exam/invigilators-download|Mozilla Firefox|windows|||
+11-02-2017 | 11:39:10 |   192.168.4.55|161201|Exam Time Slot List|http://localhost/NDUB/ndub-student/public/register/time-slot-list-ajax/2|Mozilla Firefox|windows|||
+11-02-2017 | 11:39:39 |   192.168.4.55|161201|Register Exam Invigilators Submit|http://localhost/NDUB/ndub-student/public/register/exam/invigilators/submit|Mozilla Firefox|windows|||
+11-02-2017 | 11:39:41 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?tab=exam_invigilators|Mozilla Firefox|windows|||
+11-02-2017 | 11:42:25 |   192.168.4.55|161201|Register Exam Invigilators Edit|http://localhost/NDUB/ndub-student/public/register/exam/invigilators/edit/9b6cc410-da46-4c4d-98d4-a0c3265f8608|Mozilla Firefox|windows|||
+11-02-2017 | 11:43:13 |   192.168.4.55|161201|Register Exam Invigilators Update|http://localhost/NDUB/ndub-student/public/register/exam/invigilators/update/9b6cc410-da46-4c4d-98d4-a0c3265f8608|Mozilla Firefox|windows|||
+11-02-2017 | 11:44:31 |   192.168.4.55|161201|Register Exam Invigilators Update|http://localhost/NDUB/ndub-student/public/register/exam/invigilators/update/9b6cc410-da46-4c4d-98d4-a0c3265f8608|Mozilla Firefox|windows|||
+11-02-2017 | 11:44:32 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?tab=exam_invigilators|Mozilla Firefox|windows|||
+11-02-2017 | 11:45:52 |   192.168.4.55|161201|Register Exam Invigilators Del|http://localhost/NDUB/ndub-student/public/register/exam/invigilators/delete/9b6cc410-da46-4c4d-98d4-a0c3265f8608|Mozilla Firefox|windows|||
+11-02-2017 | 11:45:54 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?tab=exam_invigilators|Mozilla Firefox|windows|||
+11-02-2017 | 11:46:19 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 11:46:32 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 11:53:16 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 11:54:12 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||
+11-02-2017 | 12:24:13 |   192.168.4.55|161201|Register Student Credit Transfer Submit|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer/submit|Mozilla Firefox|windows|||
+11-02-2017 | 12:24:19 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:24:30 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:44:51 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 12:44:51 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:45:14 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:45:35 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 12:45:36 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:46:07 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:46:13 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:46:32 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 12:46:33 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:47:20 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:47:25 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=12|Mozilla Firefox|windows|||
+11-02-2017 | 12:47:30 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:47:49 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 12:49:19 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 12:49:21 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:51:23 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:51:31 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:58:00 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 12:58:24 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 12:58:25 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:59:28 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 12:59:36 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 13:00:23 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 13:00:24 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 13:18:24 |   127.0.0.1|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+11-02-2017 | 13:18:24 |   127.0.0.1|161201|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-02-2017 | 13:18:26 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:18:31 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:18:38 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:18:39 |   127.0.0.1|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:19:14 |   127.0.0.1|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:19:15 |   127.0.0.1|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:20:13 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:20:23 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:20:33 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:21:18 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-02-2017 | 13:21:22 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-02-2017 | 13:21:57 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-02-2017 | 13:22:54 |   192.168.4.55|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-02-2017 | 13:22:57 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:23:05 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:23:06 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:23:15 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/logout/deal.gomes|Mozilla Firefox|windows|||
+11-02-2017 | 13:23:16 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:23:35 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:24:03 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:24:07 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:26:20 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:26:21 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:26:47 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+11-02-2017 | 13:26:48 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:26:56 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:26:57 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:27:01 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:27:02 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:27:30 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+11-02-2017 | 13:27:31 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:27:37 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:28:27 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+11-02-2017 | 13:28:28 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:28:33 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:28:34 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:29:19 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+11-02-2017 | 13:29:20 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:29:26 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:29:27 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:29:56 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+11-02-2017 | 13:29:57 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:30:05 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 13:30:06 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 13:30:10 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 13:30:11 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-02-2017 | 13:30:17 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 13:30:52 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 13:31:47 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 13:31:59 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-02-2017 | 13:32:03 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-02-2017 | 13:36:53 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Google Chrome|windows|||
+11-02-2017 | 17:53:19 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 17:53:28 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-02-2017 | 17:53:30 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+11-02-2017 | 17:53:46 |   192.168.4.55|161201|Academic Calender Registration|http://localhost/NDUB/ndub-student/public/register/academic-calender-registration|Mozilla Firefox|windows|||
+11-02-2017 | 17:53:46 |   192.168.4.55|161201|Academic Calender Registration|http://localhost/NDUB/ndub-student/public/register/academic-calender-registration|Mozilla Firefox|windows|||

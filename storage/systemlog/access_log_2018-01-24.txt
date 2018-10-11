@@ -1,0 +1,7 @@
+01-24-2018 | 11:07:34 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-24-2018 | 11:54:49 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-24-2018 | 12:16:27 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-24-2018 | 12:16:30 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-24-2018 | 12:16:33 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+01-24-2018 | 12:16:59 |   192.168.4.55|1702001|Result Processing|http://localhost/NDUB/ndub-student/public/faculty/result-processing|Mozilla Firefox|windows|||
+01-24-2018 | 12:17:02 |   192.168.4.55|1702001|Faculty Result Processing Marks Submit|http://localhost/NDUB/ndub-student/public/faculty/result-processing-marks-submit/01/BUS1101/3/2018|Mozilla Firefox|windows|||

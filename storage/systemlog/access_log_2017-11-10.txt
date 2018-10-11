@@ -1,0 +1,23 @@
+11-10-2017 | 13:58:17 |   192.168.1.100|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-10-2017 | 13:59:13 |   192.168.1.100|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-10-2017 | 14:00:16 |   192.168.1.100|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-10-2017 | 14:00:19 |   192.168.1.100|161501|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-10-2017 | 14:01:39 |   192.168.1.100|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-10-2017 | 14:01:57 |   192.168.1.100|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-10-2017 | 14:01:59 |   192.168.1.100|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-10-2017 | 14:02:01 |   192.168.1.100|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Google Chrome|windows|||
+11-10-2017 | 14:02:20 |   192.168.1.100|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Google Chrome|windows|||
+11-10-2017 | 14:02:55 |   192.168.1.100|161201|Register Student Block Confirm|http://localhost/NDUB/ndub-student/public/register/block/student/172020002/-5|Google Chrome|windows|||
+11-10-2017 | 14:02:56 |   192.168.1.100|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Google Chrome|windows|||
+11-10-2017 | 14:02:57 |   192.168.1.100|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Google Chrome|windows|||
+11-10-2017 | 14:03:39 |   192.168.1.100|161201|Register Student Block Confirm|http://localhost/NDUB/ndub-student/public/register/block/student/172020002/2|Google Chrome|windows|||
+11-10-2017 | 14:03:40 |   192.168.1.100|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Google Chrome|windows|||
+11-10-2017 | 14:03:41 |   192.168.1.100|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Google Chrome|windows|||
+11-10-2017 | 14:20:22 |   192.168.1.100|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Google Chrome|windows|||
+11-10-2017 | 14:20:27 |   192.168.1.100|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Google Chrome|windows|||
+11-10-2017 | 14:23:36 |   192.168.1.100|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Google Chrome|windows|||
+11-10-2017 | 14:23:38 |   192.168.1.100|161201|Faculty List|http://localhost/NDUB/ndub-student/public/register/faculty-list|Google Chrome|windows|||
+11-10-2017 | 14:26:40 |   192.168.1.100|161201|Faculty List|http://localhost/NDUB/ndub-student/public/register/faculty-list|Google Chrome|windows|||
+11-10-2017 | 14:32:06 |   192.168.1.100|161201|Faculty List|http://localhost/NDUB/ndub-student/public/register/faculty-list|Google Chrome|windows|||
+11-10-2017 | 14:32:29 |   192.168.1.100|161201|Faculty List|http://localhost/NDUB/ndub-student/public/register/faculty-list|Google Chrome|windows|||
+11-10-2017 | 14:32:59 |   192.168.1.100|161201|Faculty List|http://localhost/NDUB/ndub-student/public/register/faculty-list|Google Chrome|windows|||

@@ -1,0 +1,1 @@
+01-04-2018 | 12:22:59 |   192.168.4.55|161201|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign-submit|Message : Trying to get property of non-object, File : G:\xampp\htdocs\NDUB\ndub-student\app\Http\Controllers\RegisterController.php, Line : 2581

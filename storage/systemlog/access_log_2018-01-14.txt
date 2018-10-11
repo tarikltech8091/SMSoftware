@@ -1,0 +1,176 @@
+01-14-2018 | 12:00:43 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 12:00:57 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 12:00:59 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:04 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:31 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/Register|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:36 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:42 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:43 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:45 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:47 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:47 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery|Mozilla Firefox|windows|||
+01-14-2018 | 12:01:50 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-0/from-2018-01-14/to-2018-01-14|Mozilla Firefox|windows|||
+01-14-2018 | 12:02:24 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-06-26&date_to=2018-01-14&program=0|Mozilla Firefox|windows|||
+01-14-2018 | 12:02:26 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-0/from-2017-06-26/to-2018-01-14|Mozilla Firefox|windows|||
+01-14-2018 | 12:03:03 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-06-26&date_to=2018-01-14&program=02|Mozilla Firefox|windows|||
+01-14-2018 | 12:03:12 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2018-01-01&date_to=2018-01-14&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 12:03:18 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-12-05&date_to=2018-01-14&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 12:03:22 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-12-05/to-2018-01-14|Mozilla Firefox|windows|||
+01-14-2018 | 12:13:40 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery|Mozilla Firefox|windows|||
+01-14-2018 | 12:13:45 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=0&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:13:47 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-0|Mozilla Firefox|windows|||
+01-14-2018 | 12:13:53 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-1|Mozilla Firefox|windows|||
+01-14-2018 | 12:15:02 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-0|Mozilla Firefox|windows|||
+01-14-2018 | 12:15:08 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-1|Mozilla Firefox|windows|||
+01-14-2018 | 12:15:43 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-0|Mozilla Firefox|windows|||
+01-14-2018 | 12:15:47 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-1|Mozilla Firefox|windows|||
+01-14-2018 | 12:16:10 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:16:16 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=5646&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:17:07 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-5646|Mozilla Firefox|windows|||
+01-14-2018 | 12:19:05 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-5646|Mozilla Firefox|windows|||
+01-14-2018 | 12:19:08 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=0&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:19:13 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-0|Mozilla Firefox|windows|||
+01-14-2018 | 12:19:24 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-11|Mozilla Firefox|windows|||
+01-14-2018 | 12:20:09 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-11|Mozilla Firefox|windows|||
+01-14-2018 | 12:20:15 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=0&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:20:17 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-0|Mozilla Firefox|windows|||
+01-14-2018 | 12:20:22 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-5445|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:13 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-0|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:20 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-0|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:28 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=2&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:31 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-08/batch-2|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:32 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=2&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:37 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=1&program=08|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:42 |   192.168.4.55|161101|Accounts Student Payment Summery|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 12:22:46 |   192.168.4.55|161101|Accounts Student Payment Summery Excel|http://localhost/NDUB/ndub-student/public/accounts/student/payment/summery/excel/program-01/batch-1|Mozilla Firefox|windows|||
+01-14-2018 | 13:05:33 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/logout/deal.gomes|Mozilla Firefox|windows|||
+01-14-2018 | 13:05:35 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 13:05:41 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 13:05:42 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 13:05:43 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+01-14-2018 | 13:05:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+01-14-2018 | 13:05:51 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=3&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:28 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=4&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=5&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:33 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=6&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:35 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=7&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=8&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:40 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=9&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:44 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=10&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=11&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:49 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=1&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:53 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:56 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=3&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:06:59 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=4&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=5&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:05 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=6&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:07 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=7&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:09 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=8&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:12 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=9&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:15 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=10&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:17 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=11&tab=course_add|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:22 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/f528ad4d-cc34-4641-a38f-5e3066e212e3|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:24 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+01-14-2018 | 13:07:47 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/f528ad4d-cc34-4641-a38f-5e3066e212e3|Mozilla Firefox|windows|||
+01-14-2018 | 13:08:34 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/f528ad4d-cc34-4641-a38f-5e3066e212e3|Mozilla Firefox|windows|||
+01-14-2018 | 13:09:49 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/f528ad4d-cc34-4641-a38f-5e3066e212e3|Mozilla Firefox|windows|||
+01-14-2018 | 13:10:11 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/f528ad4d-cc34-4641-a38f-5e3066e212e3|Mozilla Firefox|windows|||
+01-14-2018 | 13:10:12 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+01-14-2018 | 15:46:24 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+01-14-2018 | 15:46:27 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 15:49:04 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 15:49:11 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-14-2018 | 15:50:17 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Mozilla Firefox|windows|||
+01-14-2018 | 15:50:22 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 15:50:24 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 15:50:32 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+01-14-2018 | 15:50:34 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=03|Mozilla Firefox|windows|||
+01-14-2018 | 15:50:43 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 15:50:43 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 15:53:13 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 15:53:42 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+01-14-2018 | 15:53:43 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?program=03|Mozilla Firefox|windows|||
+01-14-2018 | 15:53:48 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 15:53:53 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 15:54:03 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 15:54:35 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+01-14-2018 | 15:54:36 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 15:54:43 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 15:55:39 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?program=03|Mozilla Firefox|windows|||
+01-14-2018 | 15:55:55 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+01-14-2018 | 15:55:55 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+01-14-2018 | 15:55:57 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=02|Mozilla Firefox|windows|||
+01-14-2018 | 15:57:47 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=02|Mozilla Firefox|windows|||
+01-14-2018 | 15:58:08 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=02|Mozilla Firefox|windows|||
+01-14-2018 | 15:58:27 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=02|Mozilla Firefox|windows|||
+01-14-2018 | 15:58:32 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 15:58:34 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 15:58:44 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+01-14-2018 | 15:58:45 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 15:58:47 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:05 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:12 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:13 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:18 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:20 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:25 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:27 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 16:00:30 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:01:42 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:01:47 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:02:08 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+01-14-2018 | 16:02:10 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 16:02:15 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:02:21 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:04:19 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:04:24 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?batch_no=1&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:04:41 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+01-14-2018 | 16:04:43 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 16:04:46 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:04:51 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:05:41 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:05:47 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:03 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:13 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:13 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:15 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:19 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:40 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:46 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:47 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-14-2018 | 16:06:52 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:07:05 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?batch_no=0&program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:23:44 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?program=01|Mozilla Firefox|windows|||
+01-14-2018 | 16:23:48 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+01-14-2018 | 16:23:49 |   192.168.4.55|161201|Registrar Student List|http://localhost/NDUB/ndub-student/public/register/student-list?program=08|Mozilla Firefox|windows|||
+01-14-2018 | 16:23:52 |   192.168.4.55|161201|Student List Download|http://localhost/NDUB/ndub-student/public/register/student/list/download?program=08|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:16 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:19 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:19 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:25 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=1&term=1|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:28 |   192.168.4.55|161201|Faculty Assigned Course Submit|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course/delete|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:29 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=1&term=1|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:42 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=2&term=1|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:45 |   192.168.4.55|161201|Faculty Assigned Course Submit|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course/delete|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:46 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=2&term=1|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:50 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=3&term=1|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:52 |   192.168.4.55|161201|Faculty Assigned Course Submit|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course/delete|Mozilla Firefox|windows|||
+01-14-2018 | 16:49:53 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=3&term=1|Mozilla Firefox|windows|||
+01-14-2018 | 16:52:18 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=3&term=1|Mozilla Firefox|windows|||
+01-14-2018 | 16:54:51 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-14-2018 | 16:54:51 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-14-2018 | 16:54:53 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+01-14-2018 | 16:54:54 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+01-14-2018 | 16:55:04 |   192.168.4.55|161201|Class Teacher Delete|http://localhost/NDUB/ndub-student/public/register/class-teacher-del/0cd5a059-9b5e-4f03-ac6d-69454f6ed0b4|Mozilla Firefox|windows|||
+01-14-2018 | 16:55:05 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+01-14-2018 | 17:10:31 |   192.168.4.55|161201|Class Teacher Delete|http://localhost/NDUB/ndub-student/public/register/class-teacher-del/27b498d0-12b3-41a5-b4f7-6cc4302133d9|Mozilla Firefox|windows|||
+01-14-2018 | 17:10:33 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+01-14-2018 | 17:10:40 |   192.168.4.55|161201|Class Teacher Edit|http://localhost/NDUB/ndub-student/public/register/class-teacher-edit/27b498d0-12b3-41a5-b4f7-6cc4302133d9|Mozilla Firefox|windows|||
+01-14-2018 | 17:10:44 |   192.168.4.55|161201|Class Teacher Update|http://localhost/NDUB/ndub-student/public/register/class-teacher-update/27b498d0-12b3-41a5-b4f7-6cc4302133d9|Mozilla Firefox|windows|||
+01-14-2018 | 17:10:45 |   192.168.4.55|161201|Class Teacher Edit|http://localhost/NDUB/ndub-student/public/register/class-teacher-edit/27b498d0-12b3-41a5-b4f7-6cc4302133d9|Mozilla Firefox|windows|||
+01-14-2018 | 17:10:57 |   192.168.4.55|161201|Class Teacher Delete|http://localhost/NDUB/ndub-student/public/register/class-teacher-del/0fb846fa-b651-498d-8611-1f1f832ad23b|Mozilla Firefox|windows|||
+01-14-2018 | 17:10:58 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+01-14-2018 | 17:11:57 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+01-14-2018 | 17:12:03 |   192.168.4.55|161201|Class Teacher Delete|http://localhost/NDUB/ndub-student/public/register/class-teacher-del/27b498d0-12b3-41a5-b4f7-6cc4302133d9|Mozilla Firefox|windows|||
+01-14-2018 | 17:12:04 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||

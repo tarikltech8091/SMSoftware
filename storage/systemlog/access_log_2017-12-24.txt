@@ -1,0 +1,11 @@
+12-24-2017 | 10:53:11 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-24-2017 | 10:56:46 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-24-2017 | 10:56:51 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-24-2017 | 11:20:37 |   192.168.4.55|guest|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+12-24-2017 | 11:27:20 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-24-2017 | 12:14:07 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+12-24-2017 | 13:01:10 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-24-2017 | 13:18:24 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+12-24-2017 | 13:18:27 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+12-24-2017 | 13:18:31 |   192.168.4.55|161501|SystemAdmin Dashboard|http://localhost/NDUB/ndub-student/public/systemadmin/md.moudud.sabbir/home|Google Chrome|windows|||
+12-24-2017 | 14:28:19 |   192.168.4.55|161201|Registrar Notice Board|http://localhost/NDUB/ndub-student/public/register/notice-board|Mozilla Firefox|windows|||

@@ -1,0 +1,25 @@
+12-31-2017 | 12:56:21 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+12-31-2017 | 15:28:22 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-31-2017 | 15:28:29 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-31-2017 | 15:28:32 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:29:00 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:29:07 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:29:13 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-31-2017 | 15:29:24 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-31-2017 | 15:29:43 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:30:43 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:32:10 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:33:54 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:34:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:35:13 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:38:34 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||
+12-31-2017 | 15:41:36 |   192.168.4.55|161201|Registrar Existing Student Submit|http://localhost/NDUB/ndub-student/public/register/existing/student/submit|Mozilla Firefox|windows|||
+12-31-2017 | 15:41:37 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:42:05 |   192.168.4.55|161201|Registrar Existing Student Submit|http://localhost/NDUB/ndub-student/public/register/existing/student/submit|Mozilla Firefox|windows|||
+12-31-2017 | 15:42:06 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 15:42:18 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||
+12-31-2017 | 15:42:21 |   192.168.4.55|161201|Registrar Existing Student Submit|http://localhost/NDUB/ndub-student/public/register/existing/student/submit|Mozilla Firefox|windows|||
+12-31-2017 | 15:42:27 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 16:35:19 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 16:35:56 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-31-2017 | 16:36:02 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||

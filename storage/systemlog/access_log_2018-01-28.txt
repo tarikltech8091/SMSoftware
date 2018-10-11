@@ -1,0 +1,77 @@
+01-28-2018 | 11:25:08 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:11 |   192.168.4.55|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:15 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:25 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:27 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:29 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:36 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:41 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=181013536|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:48 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=182010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:54 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=345454|Mozilla Firefox|windows|||
+01-28-2018 | 11:25:58 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-28-2018 | 11:26:50 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 11:27:29 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 11:27:55 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 11:28:11 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 11:28:39 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 11:28:42 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 11:28:47 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=181013267|Mozilla Firefox|windows|||
+01-28-2018 | 11:29:28 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:32:38 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:32:50 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:33:04 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:33:08 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:33:19 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:33:38 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:33:44 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:37:23 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 11:37:39 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 12:05:13 |   192.168.4.55|161201|Registrar Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=183010001|Mozilla Firefox|windows|||
+01-28-2018 | 12:33:35 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change|Mozilla Firefox|windows|||
+01-28-2018 | 12:33:42 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=181015457|Mozilla Firefox|windows|||
+01-28-2018 | 12:34:39 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=181015457|Mozilla Firefox|windows|||
+01-28-2018 | 12:34:50 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=181015457|Mozilla Firefox|windows|||
+01-28-2018 | 12:35:30 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=181015457|Mozilla Firefox|windows|||
+01-28-2018 | 12:36:01 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:36:12 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:36:46 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:37:19 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:37:32 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:38:20 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:38:40 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:38:55 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:39:14 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:39:38 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:39:55 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:42:13 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:42:35 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:52:59 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:55:04 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:55:08 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 12:59:10 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change|Mozilla Firefox|windows|||
+01-28-2018 | 12:59:34 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:00:18 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:00:21 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:01:18 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:01:24 |   192.168.4.55|161201|Registrar Student Batch Semester Change Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:01:26 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change|Mozilla Firefox|windows|||
+01-28-2018 | 13:02:01 |   192.168.4.55|161201|Registrar Student Batch Semester Change Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:03:08 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:03:12 |   192.168.4.55|161201|Registrar Student Batch Semester Change Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:03:42 |   192.168.4.55|161201|Registrar Student Batch Semester Change Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:03:44 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:04:34 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:04:43 |   192.168.4.55|161201|Registrar Student Batch Semester Change Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:04:44 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:05:25 |   192.168.4.55|161201|Registrar Student Batch Semester Change Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:05:27 |   192.168.4.55|161201|Registrar Student Batch Semester change|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:10:21 |   192.168.4.55|161201|Registrar Student Change Info|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:23:37 |   192.168.4.55|161201|Registrar Student Change Info Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:23:38 |   192.168.4.55|161201|Registrar Student Change Info|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change|Mozilla Firefox|windows|||
+01-28-2018 | 13:23:41 |   192.168.4.55|161201|Registrar Student Change Info|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:23:49 |   192.168.4.55|161201|Registrar Student Change Info Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:23:51 |   192.168.4.55|161201|Registrar Student Change Info|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:23:53 |   192.168.4.55|161201|Registrar Student Change Info|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:24:01 |   192.168.4.55|161201|Registrar Student Change Info Confirm|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change/confirm|Mozilla Firefox|windows|||
+01-28-2018 | 13:24:03 |   192.168.4.55|161201|Registrar Student Change Info|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||
+01-28-2018 | 13:24:05 |   192.168.4.55|161201|Registrar Student Change Info|http://localhost/NDUB/ndub-student/public/register/student/batch-semester/change?student_no=183016324|Mozilla Firefox|windows|||

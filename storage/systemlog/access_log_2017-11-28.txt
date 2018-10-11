@@ -1,0 +1,38 @@
+11-28-2017 | 11:21:52 |   192.168.4.55|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-28-2017 | 11:22:22 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-28-2017 | 11:22:42 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-28-2017 | 11:22:59 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-28-2017 | 11:23:04 |   192.168.4.55|161101|Accounts Applicant Total Amount|http://localhost/NDUB/ndub-student/public/accounts/applicant/total-amount|Mozilla Firefox|windows|||
+11-28-2017 | 11:23:05 |   192.168.4.55|161101|Accounts Applicant Total Amount|http://localhost/NDUB/ndub-student/public/accounts/applicant/total-amount|Mozilla Firefox|windows|||
+11-28-2017 | 11:28:34 |   192.168.4.55|161101|Accounts Applicant Total Amount|http://localhost/NDUB/ndub-student/public/accounts/applicant/total-amount?program=01|Mozilla Firefox|windows|||
+11-28-2017 | 11:31:31 |   192.168.4.55|161101|Accounts Applicant Total Amount|http://localhost/NDUB/ndub-student/public/accounts/applicant/total-amount|Mozilla Firefox|windows|||
+11-28-2017 | 11:46:21 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-28-2017 | 11:53:27 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery|Mozilla Firefox|windows|||
+11-28-2017 | 11:53:38 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-09-01&date_to=2017-11-28&program=0|Mozilla Firefox|windows|||
+11-28-2017 | 11:53:41 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-0/from-2017-09-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:17:31 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-0/from-2017-09-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:17:32 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-09-01&date_to=2017-11-28&program=0|Mozilla Firefox|windows|||
+11-28-2017 | 13:17:32 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-09-01&date_to=2017-11-28&program=0|Mozilla Firefox|windows|||
+11-28-2017 | 13:17:35 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-09-01&date_to=2017-11-28&program=0|Mozilla Firefox|windows|||
+11-28-2017 | 13:17:48 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-0/from-2017-09-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:19:37 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-28-2017 | 13:29:22 |   192.168.4.55|161101|Student Payment Transaction|http://localhost/NDUB/ndub-student/public/accounts/student-payment-transaction|Mozilla Firefox|windows|||
+11-28-2017 | 13:29:22 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery|Mozilla Firefox|windows|||
+11-28-2017 | 13:29:22 |   192.168.4.55|161101|Student Payment Transaction|http://localhost/NDUB/ndub-student/public/accounts/student-payment-transaction|Mozilla Firefox|windows|||
+11-28-2017 | 13:29:22 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery|Mozilla Firefox|windows|||
+11-28-2017 | 13:29:32 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-0/from-2017-11-28/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:29:42 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-08-01&date_to=2017-11-28&program=0|Mozilla Firefox|windows|||
+11-28-2017 | 13:30:13 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-0/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:30:45 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-08-01&date_to=2017-11-28&program=01|Mozilla Firefox|windows|||
+11-28-2017 | 13:30:48 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:33:31 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:35:07 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-08-01&date_to=2017-11-28&program=01|Mozilla Firefox|windows|||
+11-28-2017 | 13:35:09 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:35:51 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:36:05 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:38:00 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-08-01&date_to=2017-11-28&program=01|Mozilla Firefox|windows|||
+11-28-2017 | 13:38:05 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:39:21 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-08-01&date_to=2017-11-28&program=01|Mozilla Firefox|windows|||
+11-28-2017 | 13:39:24 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||
+11-28-2017 | 13:39:48 |   192.168.4.55|161101|Accounts Summery|http://localhost/NDUB/ndub-student/public/accounts/account-summery?date_from=2017-08-01&date_to=2017-11-28&program=01|Mozilla Firefox|windows|||
+11-28-2017 | 13:39:51 |   192.168.4.55|161101|Accounts Summery Excel Download|http://localhost/NDUB/ndub-student/public/accounts/summery/download/program-01/from-2017-08-01/to-2017-11-28|Mozilla Firefox|windows|||

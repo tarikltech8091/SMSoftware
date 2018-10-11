@@ -1,0 +1,16 @@
+01-06-2018 | 18:16:55 |   192.168.4.55|guest|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:15 |   192.168.4.55|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:18 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:28 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:30 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:37 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:41 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:44 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:49 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:51 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:54 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-degree-dsg|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:58 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/dsg|Mozilla Firefox|windows|||
+01-06-2018 | 18:17:59 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+01-06-2018 | 18:18:04 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdfd|Mozilla Firefox|windows|||
+01-06-2018 | 18:18:06 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+01-06-2018 | 18:19:46 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||

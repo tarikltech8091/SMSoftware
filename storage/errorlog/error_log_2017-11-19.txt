@@ -1,0 +1,21 @@
+11-19-2017 | 13:12:57 |   192.168.4.55|161101|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment/received/A182015482855|Message : Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r18sm12634143pge.87 - gsmtp
+", File : G:\xampp\htdocs\NDUB\ndub-student\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php, Line : 383
+11-19-2017 | 13:37:48 |   127.0.0.1|161101|http://localhost/NDUB/ndub-student/public/accounts/applicant/message-send/A182012454698|Message : Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c185sm13599856pfb.112 - gsmtp
+", File : G:\xampp\htdocs\NDUB\ndub-student\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php, Line : 383
+11-19-2017 | 13:39:11 |   127.0.0.1|161101|http://localhost/NDUB/ndub-student/public/accounts/applicant/message-send/A182012454698|Message : Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j6sm14488505pfk.152 - gsmtp
+", File : G:\xampp\htdocs\NDUB\ndub-student\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php, Line : 383
+11-19-2017 | 14:02:39 |   127.0.0.1|161101|http://localhost/NDUB/ndub-student/public/accounts/applicant/message-send/A182012454698|Message : Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b67sm3867397pfm.19 - gsmtp
+", File : G:\xampp\htdocs\NDUB\ndub-student\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php, Line : 383
+11-19-2017 | 14:04:43 |   127.0.0.1|161101|http://localhost/NDUB/ndub-student/public/accounts/applicant/message-send/A182012454698|Message : Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a7sm11810685pgc.81 - gsmtp
+", File : G:\xampp\htdocs\NDUB\ndub-student\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php, Line : 383
+11-19-2017 | 14:07:20 |   127.0.0.1|161101|http://localhost/NDUB/ndub-student/public/accounts/applicant/message-send/A182012454698|Message : Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials g2sm5666193pfc.130 - gsmtp
+", File : G:\xampp\htdocs\NDUB\ndub-student\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php, Line : 383
+11-19-2017 | 14:10:56 |   127.0.0.1|161101|http://localhost/NDUB/ndub-student/public/accounts/applicant/message-send/A182012454698|Message : Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f4sm12234099pgs.30 - gsmtp
+", File : G:\xampp\htdocs\NDUB\ndub-student\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php, Line : 383

@@ -1,0 +1,245 @@
+12-17-2017 | 10:42:03 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-17-2017 | 10:47:50 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-17-2017 | 10:47:57 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-17-2017 | 10:48:01 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-17-2017 | 11:37:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 11:37:34 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 11:38:22 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 11:38:43 |   192.168.4.55|161201|Registrar Existing Student Accepted Course|http://localhost/NDUB/ndub-student/public/register/existing/student/accepted/course|Mozilla Firefox|windows|||
+12-17-2017 | 11:38:43 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 11:38:45 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 11:38:48 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:34:08 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:34:20 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:34:21 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:35:58 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:37:49 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:38:38 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:44:15 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:46:44 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:48:22 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:49:09 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:49:09 |   192.168.4.55|161201|Registrar Existing Student Accepted Course|http://localhost/NDUB/ndub-student/public/register/existing/student/accepted/course|Mozilla Firefox|windows|||
+12-17-2017 | 12:50:34 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:50:40 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:51:22 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:51:27 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:52:06 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:52:09 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:53:02 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:58:04 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:58:07 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:58:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 12:58:31 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:01:01 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:01:13 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:01:52 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:02:03 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:02:25 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:02:57 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:04:07 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:04:39 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:04:59 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:06:14 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:06:50 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:17:01 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:18:29 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:20:18 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:22:05 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:22:56 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:29:11 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:30:18 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:30:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 13:30:48 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=182010001|Mozilla Firefox|windows|||
+12-17-2017 | 13:31:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 13:31:30 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=&student_no=182010001|Mozilla Firefox|windows|||
+12-17-2017 | 13:32:01 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 13:32:06 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:33:55 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:35:25 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:35:44 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:35:53 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:36:05 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:36:30 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:36:58 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:37:17 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:37:31 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:38:05 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:38:13 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:38:23 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:40:21 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:40:36 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:41:01 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:42:07 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:51:47 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:52:06 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01|Mozilla Firefox|windows|||
+12-17-2017 | 13:52:17 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=|Mozilla Firefox|windows|||
+12-17-2017 | 13:53:07 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=|Mozilla Firefox|windows|||
+12-17-2017 | 13:53:28 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 13:54:00 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 13:54:18 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 13:59:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:04:42 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:09:43 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:28:19 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:29:03 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:29:38 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:29:41 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 14:29:43 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 14:29:47 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-1/batch-1|Mozilla Firefox|windows|||
+12-17-2017 | 14:29:51 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-12/batch-12|Mozilla Firefox|windows|||
+12-17-2017 | 14:29:55 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-3/batch-3|Mozilla Firefox|windows|||
+12-17-2017 | 14:30:09 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 14:32:01 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:32:08 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 14:32:09 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 14:32:15 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-[object%20Object]/batch-null|Mozilla Firefox|windows|||
+12-17-2017 | 14:32:59 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:33:04 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 14:33:06 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 14:33:25 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:33:39 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+12-17-2017 | 14:33:40 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 14:33:44 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 14:34:19 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:34:23 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 14:34:26 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 14:34:30 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 14:34:46 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:34:52 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 14:34:55 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 14:35:01 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 14:36:54 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:37:05 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 14:37:12 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+12-17-2017 | 14:37:14 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 14:37:17 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 15:05:03 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:05:04 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:05:36 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+12-17-2017 | 15:05:36 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:05:56 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:06:03 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:06:04 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 15:08:28 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:08:41 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+12-17-2017 | 15:08:45 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:09:00 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:09:03 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:09:07 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 15:09:09 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:11:28 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:11:35 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+12-17-2017 | 15:11:37 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:11:53 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-17-2017 | 15:13:13 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:13:19 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-12|Mozilla Firefox|windows|||
+12-17-2017 | 15:13:22 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:13:46 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?program=01&student_no=181010001|Mozilla Firefox|windows|||
+12-17-2017 | 15:13:49 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 15:13:55 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:17:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 15:17:31 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:18:20 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 15:19:10 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 15:19:18 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:22:50 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 15:22:57 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:23:00 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 15:23:55 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:31 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=&program=&student_no=|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:37 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:41 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:42 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:49 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:50 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:52 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 15:24:55 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010014|Mozilla Firefox|windows|||
+12-17-2017 | 17:25:31 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-17-2017 | 17:25:37 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-17-2017 | 17:25:39 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:26:38 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:27:16 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:27:58 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:28:08 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:28:44 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:31:32 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:31:48 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:31:51 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 17:31:53 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010014|Mozilla Firefox|windows|||
+12-17-2017 | 17:34:05 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-03|Mozilla Firefox|windows|||
+12-17-2017 | 17:34:07 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:34:09 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 17:34:16 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=235463266|Mozilla Firefox|windows|||
+12-17-2017 | 17:35:11 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=235463266|Mozilla Firefox|windows|||
+12-17-2017 | 17:35:35 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=235463266|Mozilla Firefox|windows|||
+12-17-2017 | 17:35:40 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+12-17-2017 | 17:35:42 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:35:44 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 17:35:46 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:36:07 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:36:21 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:36:25 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+12-17-2017 | 17:36:26 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:36:29 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 17:36:33 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010014|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:08 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:14 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:17 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:24 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010014|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:35 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:36 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-0/batch-0|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:38 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:40 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-12/batch-12|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:45 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=12&program=01&student_no=181013267|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:55 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+12-17-2017 | 17:37:59 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:38:01 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 17:38:04 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010014|Mozilla Firefox|windows|||
+12-17-2017 | 17:39:13 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+12-17-2017 | 17:39:14 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-0/batch-0|Mozilla Firefox|windows|||
+12-17-2017 | 17:39:17 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:39:19 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-1/batch-1|Mozilla Firefox|windows|||
+12-17-2017 | 17:39:22 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:40:54 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-12|Mozilla Firefox|windows|||
+12-17-2017 | 17:40:56 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+12-17-2017 | 17:40:59 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:41:02 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-0/batch-0|Mozilla Firefox|windows|||
+12-17-2017 | 17:42:07 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:42:29 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:42:44 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:43:01 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:43:13 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:43:27 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:45:12 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:45:29 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:46:46 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:47:04 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:47:44 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=1&program=01&student_no=33426236|Mozilla Firefox|windows|||
+12-17-2017 | 17:49:07 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-02|Mozilla Firefox|windows|||
+12-17-2017 | 17:49:08 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-17-2017 | 17:49:09 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-0/batch-0|Mozilla Firefox|windows|||
+12-17-2017 | 17:49:11 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-2/batch-2|Mozilla Firefox|windows|||
+12-17-2017 | 17:49:18 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:51:05 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:51:39 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:51:52 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:52:35 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:53:04 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:54:08 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:54:32 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:55:43 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:59:05 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 17:59:37 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:00:00 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:00:24 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-17-2017 | 18:00:25 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-17-2017 | 18:01:47 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:03:08 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:03:53 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:04:16 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:05:22 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:06:54 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:07:52 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:08:32 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||
+12-17-2017 | 18:17:45 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student?batch=2&program=01&student_no=181010013|Mozilla Firefox|windows|||

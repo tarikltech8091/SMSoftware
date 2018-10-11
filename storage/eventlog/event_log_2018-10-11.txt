@@ -1,0 +1,4 @@
+10-11-2018 | 10:31:26 |   127.0.0.1|161201|http://localhost:45/login|update,users|1
+10-11-2018 | 10:31:27 |   127.0.0.1|161201|http://localhost:45/login|insert,auth_log|{"auth_tran_code":"b6965511-d776-4baa-a68a-d89f7f10b525","auth_client_ip":"127.0.0.1","auth_user_id":"161201","auth_browser":"Google Chrome","auth_platform":"linux","auth_city":"","auth_division":"","auth_country":"","auth_type":"Log In","created_at":"2018-10-11 10:31:27","updated_at":"2018-10-11 10:31:27"}
+10-11-2018 | 10:35:59 |   127.0.0.1|161201|http://localhost:45/logout/Register|update,users|0
+10-11-2018 | 10:36:00 |   127.0.0.1|161201|http://localhost:45/logout/Register|insert,auth_log|{"auth_tran_code":"235bffbf-02cf-4ac2-a9b7-a8a6a370abb9","auth_client_ip":"127.0.0.1","auth_user_id":"161201","auth_browser":"Google Chrome","auth_platform":"linux","auth_city":"","auth_division":"","auth_country":"","auth_type":"Log Out","created_at":"2018-10-11 10:36:00","updated_at":"2018-10-11 10:36:00"}

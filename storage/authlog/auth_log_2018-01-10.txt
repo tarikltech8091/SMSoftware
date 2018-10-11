@@ -1,0 +1,8 @@
+01-10-2018 | 12:16:35 |   127.0.0.1|1702001|Log In|Mozilla Firefox|windows|||
+01-10-2018 | 12:17:02 |   127.0.0.1|1702001|Log Out|Mozilla Firefox|windows|||
+01-10-2018 | 12:19:36 |   127.0.0.1|182010002|Log In|Mozilla Firefox|windows|||
+01-10-2018 | 13:34:12 |   127.0.0.1|182010002|Log Out|Mozilla Firefox|windows|||
+01-10-2018 | 13:36:42 |   127.0.0.1|161301|Log Out|Mozilla Firefox|windows|||
+01-10-2018 | 13:36:51 |   127.0.0.1|181010011|Log In|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:27 |   127.0.0.1|181010011|Log Out|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:39 |   127.0.0.1|161301|Log In|Mozilla Firefox|windows|||

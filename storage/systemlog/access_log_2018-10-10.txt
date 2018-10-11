@@ -1,0 +1,6 @@
+10-10-2018 | 19:27:40 |   127.0.0.1|guest|Home|http://localhost:45|Google Chrome|linux|||
+10-10-2018 | 19:27:43 |   127.0.0.1|guest|LogIn|http://localhost:45/login|Google Chrome|linux|||
+10-10-2018 | 19:27:58 |   127.0.0.1|guest|LogIn|http://localhost:45/login|Google Chrome|linux|||
+10-10-2018 | 19:28:00 |   127.0.0.1|161101|Accounts Dashboard|http://localhost:45/accounts/deal.gomes/home|Google Chrome|linux|||
+10-10-2018 | 19:28:11 |   127.0.0.1|161101|LogIn|http://localhost:45/logout/deal.gomes|Google Chrome|linux|||
+10-10-2018 | 19:28:13 |   127.0.0.1|guest|LogIn|http://localhost:45/login|Google Chrome|linux|||

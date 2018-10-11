@@ -1,0 +1,1 @@
+11-26-2017 | 17:24:49 |   192.168.4.55|161201|http://localhost/NDUB/ndub-student/public/register/admission/confirm?applicant_serial_no=A181015776095|Message : fopen(STUDENT/BBA/2018/SPRING/181010016.jpg): failed to open stream: File exists, File : G:\xampp\htdocs\NDUB\ndub-student\app\Register.php, Line : 167

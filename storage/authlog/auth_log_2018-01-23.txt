@@ -1,0 +1,3 @@
+01-23-2018 | 15:20:28 |   192.168.4.55|161201|Log Out|Mozilla Firefox|windows|||
+01-23-2018 | 15:56:47 |   192.168.4.55|1702001|Log Out|Mozilla Firefox|windows|||
+01-23-2018 | 15:57:08 |   192.168.4.55|161201|Log In|Mozilla Firefox|windows|||

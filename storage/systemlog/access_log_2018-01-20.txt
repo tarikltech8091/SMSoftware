@@ -1,0 +1,12 @@
+01-20-2018 | 17:43:26 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-20-2018 | 17:43:43 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-20-2018 | 17:43:47 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-20-2018 | 17:43:52 |   192.168.4.55|161201|Time Slot|http://localhost/NDUB/ndub-student/public/register/univ-time-slot|Mozilla Firefox|windows|||
+01-20-2018 | 17:43:52 |   192.168.4.55|161201|Time Slot|http://localhost/NDUB/ndub-student/public/register/univ-time-slot|Mozilla Firefox|windows|||
+01-20-2018 | 17:43:57 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+01-20-2018 | 17:44:02 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Mozilla Firefox|windows|||
+01-20-2018 | 17:44:09 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-01-01&exam_type=0|Mozilla Firefox|windows|||
+01-20-2018 | 17:44:14 |   192.168.4.55|161201|Exam Schedule View|http://localhost/NDUB/ndub-student/public/register/exam-schedule/exam-schedule-view/0/0/1/2018|Mozilla Firefox|windows|||
+01-20-2018 | 17:44:20 |   192.168.4.55|161201|Exam Schedule View|http://localhost/NDUB/ndub-student/public/register/exam-schedule/exam-schedule-view/0/01/1/2018|Mozilla Firefox|windows|||
+01-20-2018 | 17:44:21 |   192.168.4.55|161201|Exam Schedule View|http://localhost/NDUB/ndub-student/public/register/exam-schedule/exam-schedule-view/2/01/1/2018|Mozilla Firefox|windows|||
+01-20-2018 | 17:44:24 |   192.168.4.55|161201|Exam Schedule Download|http://localhost/NDUB/ndub-student/public/register/exam-schedule/exam-schedule-download-pdf?exam_type=2&program=01&trimester=1&year=2018|Mozilla Firefox|windows|||

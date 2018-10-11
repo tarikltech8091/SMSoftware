@@ -1,0 +1,14 @@
+10-11-2018 | 10:18:01 |   127.0.0.1|guest|Home|http://localhost:45|Google Chrome|linux|||
+10-11-2018 | 10:18:08 |   127.0.0.1|guest|Online Application|http://localhost:45/online-application|Google Chrome|linux|||
+10-11-2018 | 10:18:13 |   127.0.0.1|guest|Online Application|http://localhost:45/online-application/form|Google Chrome|linux|||
+10-11-2018 | 10:18:19 |   127.0.0.1|guest|Applicant Information|http://localhost:45/online-application/applicant|Google Chrome|linux|||
+10-11-2018 | 10:18:23 |   127.0.0.1|guest|Applicant Admission Result|http://localhost:45/online-application/applicant/admission-result|Google Chrome|linux|||
+10-11-2018 | 10:18:25 |   127.0.0.1|guest|Applicant Information|http://localhost:45/online-application/applicant|Google Chrome|linux|||
+10-11-2018 | 10:18:28 |   127.0.0.1|guest|Online Application|http://localhost:45/online-application/form|Google Chrome|linux|||
+10-11-2018 | 10:31:06 |   127.0.0.1|guest|LogIn|http://localhost:45/login|Google Chrome|linux|||
+10-11-2018 | 10:31:22 |   127.0.0.1|guest|LogIn|http://localhost:45/login|Google Chrome|linux|||
+10-11-2018 | 10:31:28 |   127.0.0.1|161201|Registrar Dashboard|http://localhost:45/register/Register/home|Google Chrome|linux|||
+10-11-2018 | 10:35:48 |   127.0.0.1|161201|Registrar Dashboard|http://localhost:45/register/Register/home|Google Chrome|linux|||
+10-11-2018 | 10:35:59 |   127.0.0.1|161201|LogIn|http://localhost:45/logout/Register|Google Chrome|linux|||
+10-11-2018 | 10:36:01 |   127.0.0.1|guest|LogIn|http://localhost:45/login|Google Chrome|linux|||
+10-11-2018 | 11:44:11 |   127.0.0.1|guest|Home|http://localhost:45|Google Chrome|linux|||

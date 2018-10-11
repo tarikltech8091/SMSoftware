@@ -1,0 +1,650 @@
+11-14-2017 | 10:34:14 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:34:47 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:34:49 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:35:15 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:35:18 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:36:12 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:36:13 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:36:15 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 10:36:27 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 10:36:27 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 10:36:39 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 10:36:39 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 10:38:32 |   192.168.4.55|161201|Register Student Credit Transfer Submit|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer/submit|Mozilla Firefox|windows|||
+11-14-2017 | 10:38:33 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 10:39:02 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||
+11-14-2017 | 10:39:08 |   192.168.4.55|161201|Register Student Credit Transfer Submit|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer/submit|Mozilla Firefox|windows|||
+11-14-2017 | 10:39:09 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 10:39:28 |   192.168.4.55|161201|Register Student Credit Transfer Submit|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer/submit|Mozilla Firefox|windows|||
+11-14-2017 | 10:39:29 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 10:39:37 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||
+11-14-2017 | 10:40:10 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||
+11-14-2017 | 10:40:13 |   192.168.4.55|161201|Register Student Credit Transfer Submit|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer/submit|Mozilla Firefox|windows|||
+11-14-2017 | 10:40:17 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 10:43:35 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-14-2017 | 10:44:00 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-14-2017 | 10:44:03 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-14-2017 | 10:47:56 |   192.168.4.55|161201|Admission List|http://localhost/NDUB/ndub-student/public/register/admission/list|Mozilla Firefox|windows|||
+11-14-2017 | 10:47:56 |   192.168.4.55|161201|Admission List|http://localhost/NDUB/ndub-student/public/register/admission/list|Mozilla Firefox|windows|||
+11-14-2017 | 10:48:16 |   192.168.4.55|161201|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 10:55:28 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application|Mozilla Firefox|windows|||
+11-14-2017 | 10:55:32 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 10:55:51 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/entry/validation/SSC-989898-01|Mozilla Firefox|windows|||
+11-14-2017 | 10:55:58 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/image|Mozilla Firefox|windows|||
+11-14-2017 | 10:56:28 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/basic-info|Mozilla Firefox|windows|||
+11-14-2017 | 10:56:29 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 10:57:28 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/academic-info|Mozilla Firefox|windows|||
+11-14-2017 | 10:57:29 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 10:57:49 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/personal-info|Mozilla Firefox|windows|||
+11-14-2017 | 10:57:50 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:03 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/personal-info|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:04 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:29 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/contact-info|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:30 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/complete|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:52 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/complete|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:53 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:57 |   192.168.4.55|161201|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 10:58:59 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 10:59:00 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 10:59:12 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 10:59:19 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 10:59:20 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 10:59:21 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Google Chrome|windows|||
+11-14-2017 | 10:59:32 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Google Chrome|windows|||
+11-14-2017 | 10:59:38 |   192.168.4.55|161101|Applicant Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/payment|Google Chrome|windows|||
+11-14-2017 | 10:59:44 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Google Chrome|windows|||
+11-14-2017 | 10:59:47 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181011308593|Google Chrome|windows|||
+11-14-2017 | 11:00:03 |   192.168.4.55|161101|Accounts|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment/received/A181011308593|Google Chrome|windows|||
+11-14-2017 | 11:00:10 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Mozilla Firefox|windows|||
+11-14-2017 | 11:00:10 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Mozilla Firefox|windows|||
+11-14-2017 | 11:00:17 |   192.168.4.55|161201|Register|http://localhost/NDUB/ndub-student/public/register/candidate/approved/A181011308593/3|Mozilla Firefox|windows|||
+11-14-2017 | 11:00:18 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Mozilla Firefox|windows|||
+11-14-2017 | 11:00:20 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181011308593|Google Chrome|windows|||
+11-14-2017 | 11:00:30 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Google Chrome|windows|||
+11-14-2017 | 11:00:38 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:00:45 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/4343434|Google Chrome|windows|||
+11-14-2017 | 11:00:47 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:00:57 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/342234342|Google Chrome|windows|||
+11-14-2017 | 11:00:58 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:01:08 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Mozilla Firefox|windows|||
+11-14-2017 | 11:01:13 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:01:24 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/13243245543342|Google Chrome|windows|||
+11-14-2017 | 11:01:25 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:03:43 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:03:53 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/455343434|Google Chrome|windows|||
+11-14-2017 | 11:03:54 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:04:03 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/987654353214|Google Chrome|windows|||
+11-14-2017 | 11:04:04 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:04:15 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 11:04:15 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 11:04:18 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 11:04:21 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm?applicant_serial_no=A181011308593|Mozilla Firefox|windows|||
+11-14-2017 | 11:04:22 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 11:06:10 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:06:26 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/234223423434|Google Chrome|windows|||
+11-14-2017 | 11:06:27 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:07:07 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:07:53 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/35454334|Google Chrome|windows|||
+11-14-2017 | 11:07:54 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:08:05 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/0|Google Chrome|windows|||
+11-14-2017 | 11:08:05 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:08:18 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:09:06 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:09:30 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:10:04 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:20:08 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:20:16 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/34525454334|Google Chrome|windows|||
+11-14-2017 | 11:20:18 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:20:29 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:21:04 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:21:25 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:22:00 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:23:10 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:23:13 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:23:28 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:24:00 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:27:51 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:28:37 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:28:52 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:28:55 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:29:08 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:29:48 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:29:51 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:31:06 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:31:09 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:31:27 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:31:30 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:31:57 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:32:00 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:33:22 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:33:50 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:33:54 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:33:58 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:34:26 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:34:54 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:34:56 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:35:02 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:36:02 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/bank/326563426426|Google Chrome|windows|||
+11-14-2017 | 11:36:25 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:36:34 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011308593/cash/23455234|Google Chrome|windows|||
+11-14-2017 | 11:36:37 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:42:42 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 11:42:42 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 11:43:37 |   192.168.4.55|161201|Transfer Student  Image|http://localhost/NDUB/ndub-student/public//register/student/credit/transfer/image-upload|Mozilla Firefox|windows|||
+11-14-2017 | 11:44:54 |   192.168.4.55|161201|Register Student Credit Transfer Submit|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer/submit|Mozilla Firefox|windows|||
+11-14-2017 | 11:45:18 |   192.168.4.55|161201|Register Student Credit Transfer Submit|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer/submit|Mozilla Firefox|windows|||
+11-14-2017 | 11:45:22 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 11:45:31 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=12|Mozilla Firefox|windows|||
+11-14-2017 | 11:45:36 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-14-2017 | 11:46:02 |   192.168.4.55|161201|Register Student Accepted Course Submit|http://localhost/NDUB/ndub-student/public/register/student/accepted/course/submit|Mozilla Firefox|windows|||
+11-14-2017 | 11:46:05 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-14-2017 | 11:47:06 |   192.168.4.55|161201|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 11:47:08 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application|Mozilla Firefox|windows|||
+11-14-2017 | 11:47:11 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 11:47:27 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/image|Mozilla Firefox|windows|||
+11-14-2017 | 11:50:09 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/entry/validation/SSC-787878-01|Mozilla Firefox|windows|||
+11-14-2017 | 11:50:14 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/basic-info|Mozilla Firefox|windows|||
+11-14-2017 | 11:50:15 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 11:51:09 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/academic-info|Mozilla Firefox|windows|||
+11-14-2017 | 11:51:10 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 11:51:28 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/personal-info|Mozilla Firefox|windows|||
+11-14-2017 | 11:51:29 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 11:51:50 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/contact-info|Mozilla Firefox|windows|||
+11-14-2017 | 11:51:51 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/complete|Mozilla Firefox|windows|||
+11-14-2017 | 11:52:10 |   192.168.4.55|161201|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 11:52:14 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 11:52:15 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 11:52:21 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Google Chrome|windows|||
+11-14-2017 | 11:52:24 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Google Chrome|windows|||
+11-14-2017 | 11:52:27 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181011517469|Google Chrome|windows|||
+11-14-2017 | 11:52:30 |   192.168.4.55|161101|Accounts|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment/received/A181011517469|Google Chrome|windows|||
+11-14-2017 | 11:52:43 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181011517469|Google Chrome|windows|||
+11-14-2017 | 11:52:56 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Mozilla Firefox|windows|||
+11-14-2017 | 11:52:56 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Mozilla Firefox|windows|||
+11-14-2017 | 11:52:59 |   192.168.4.55|161201|Register|http://localhost/NDUB/ndub-student/public/register/candidate/approved/A181011517469/3|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:00 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:01 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Google Chrome|windows|||
+11-14-2017 | 11:53:06 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:53:12 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/approved/A181011517469/cash/4554443|Google Chrome|windows|||
+11-14-2017 | 11:53:14 |   192.168.4.55|161101|Admission Payment|http://localhost/NDUB/ndub-student/public/accounts/admission/payement/list|Google Chrome|windows|||
+11-14-2017 | 11:53:31 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:31 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:35 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:35 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:38 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm?applicant_serial_no=A181011517469|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:49 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm?applicant_serial_no=A181011517469|Mozilla Firefox|windows|||
+11-14-2017 | 11:53:52 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 11:57:56 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/Register|Mozilla Firefox|windows|||
+11-14-2017 | 11:57:59 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 11:58:06 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 11:58:07 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 11:58:31 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/logout/md.moudud.sabbir|Mozilla Firefox|windows|||
+11-14-2017 | 11:58:32 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 11:58:38 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 11:58:39 |   192.168.4.55|181010011|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+11-14-2017 | 11:58:51 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/logout/deal.gomes|Google Chrome|windows|||
+11-14-2017 | 11:58:53 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 11:58:58 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 11:58:59 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 11:59:02 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign|Google Chrome|windows|||
+11-14-2017 | 11:59:11 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign?academic_year=2018&program=01&semester=1|Google Chrome|windows|||
+11-14-2017 | 11:59:27 |   192.168.4.55|161201|Register Trimester Student Assign Submit|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign-submit|Google Chrome|windows|||
+11-14-2017 | 11:59:28 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign|Google Chrome|windows|||
+11-14-2017 | 11:59:46 |   192.168.4.55|181010011|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..ranar/home|Mozilla Firefox|windows|||
+11-14-2017 | 11:59:46 |   192.168.4.55|181010011|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..ranar/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:00:49 |   192.168.4.55|181010011|Student Class Schedule|http://localhost/NDUB/ndub-student/public/student/class-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 12:00:51 |   192.168.4.55|181010011|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+11-14-2017 | 12:01:25 |   192.168.4.55|181010011|Student Pre Advising Submit|http://localhost/NDUB/ndub-student/public/student/pre-advising-submit|Mozilla Firefox|windows|||
+11-14-2017 | 12:01:26 |   192.168.4.55|181010011|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+11-14-2017 | 12:01:32 |   192.168.4.55|181010011|Student Academic Course Plan|http://localhost/NDUB/ndub-student/public/student/academic-course-plan|Mozilla Firefox|windows|||
+11-14-2017 | 12:02:06 |   192.168.4.55|181010011|Student Grade Sheet|http://localhost/NDUB/ndub-student/public/student/grade-sheet|Mozilla Firefox|windows|||
+11-14-2017 | 12:02:11 |   192.168.4.55|181010011|Student Payment Ledger|http://localhost/NDUB/ndub-student/public/student/payment-history|Mozilla Firefox|windows|||
+11-14-2017 | 12:02:35 |   192.168.4.55|181010011|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+11-14-2017 | 12:02:43 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/Register|Google Chrome|windows|||
+11-14-2017 | 12:02:44 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:02:50 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:02:50 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:03:26 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:03:28 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:03:30 |   192.168.4.55|1702001|Course Advising|http://localhost/NDUB/ndub-student/public/faculty/course-advising|Google Chrome|windows|||
+11-14-2017 | 12:04:56 |   192.168.4.55|1702001|Course Advising|http://localhost/NDUB/ndub-student/public/faculty/course-advising|Google Chrome|windows|||
+11-14-2017 | 12:04:58 |   192.168.4.55|1702001|FacultyPreAdvisingLists|http://localhost/NDUB/ndub-student/public/faculty/pre-advising-lists/01/1/1/1/2018|Google Chrome|windows|||
+11-14-2017 | 12:05:02 |   192.168.4.55|1702001|FacultyPreAdvisingModal|http://localhost/NDUB/ndub-student/public/faculty/pre-advising-modal/108e14d8-c1a7-405d-9448-543dfdc95669|Google Chrome|windows|||
+11-14-2017 | 12:05:12 |   192.168.4.55|1702001|FacultyPreAdvisingModal|http://localhost/NDUB/ndub-student/public/faculty/pre-advising-modal/86d3b7c0-e2ad-4098-9e93-52f6930c3d0a|Google Chrome|windows|||
+11-14-2017 | 12:05:38 |   192.168.4.55|1702001|Faculty Pre Advising Submit|http://localhost/NDUB/ndub-student/public/faculty/pre-advising-submit|Google Chrome|windows|||
+11-14-2017 | 12:05:42 |   192.168.4.55|1702001|Course Advising|http://localhost/NDUB/ndub-student/public/faculty/course-advising|Google Chrome|windows|||
+11-14-2017 | 12:05:45 |   192.168.4.55|181010011|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+11-14-2017 | 12:05:56 |   192.168.4.55|181010011|Student Re-Advising|http://localhost/NDUB/ndub-student/public/student/re-advising/86d3b7c0-e2ad-4098-9e93-52f6930c3d0a/1/1|Mozilla Firefox|windows|||
+11-14-2017 | 12:06:16 |   192.168.4.55|181010011|Student Pre Advising Payment|http://localhost/NDUB/ndub-student/public/student/pre-advising-payment|Mozilla Firefox|windows|||
+11-14-2017 | 12:06:24 |   192.168.4.55|181010011|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+11-14-2017 | 12:06:36 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:06:42 |   192.168.4.55|1702001|Faculty Assigned Courses|http://localhost/NDUB/ndub-student/public/faculty/assigned-courses|Google Chrome|windows|||
+11-14-2017 | 12:07:07 |   192.168.4.55|1702001|Program Head Result Publish|http://localhost/NDUB/ndub-student/public/faculty/program-head-result-publish|Google Chrome|windows|||
+11-14-2017 | 12:07:26 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:07:32 |   192.168.4.55|1702001|Exam Schedule|http://localhost/NDUB/ndub-student/public/faculty/exam-schedule|Google Chrome|windows|||
+11-14-2017 | 12:07:37 |   192.168.4.55|1702001|Notice Board|http://localhost/NDUB/ndub-student/public/faculty/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:08:29 |   192.168.4.55|1702001|Notice Board Submit|http://localhost/NDUB/ndub-student/public/faculty/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:08:30 |   192.168.4.55|1702001|Notice Board|http://localhost/NDUB/ndub-student/public/faculty/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:08:38 |   192.168.4.55|1702001|Notice Board|http://localhost/NDUB/ndub-student/public/faculty/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:09:17 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:09:21 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:09:25 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:09:33 |   192.168.4.55|1702001|Faculty Assigned Courses|http://localhost/NDUB/ndub-student/public/faculty/assigned-courses|Google Chrome|windows|||
+11-14-2017 | 12:09:50 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:09:54 |   192.168.4.55|1702001|Result Processing|http://localhost/NDUB/ndub-student/public/faculty/result-processing|Google Chrome|windows|||
+11-14-2017 | 12:09:57 |   192.168.4.55|1702001|Faculty Result Processing Marks Submit|http://localhost/NDUB/ndub-student/public/faculty/result-processing-marks-submit/01/ENG1103/1/2018|Google Chrome|windows|||
+11-14-2017 | 12:11:25 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/logout/naim..isalam|Google Chrome|windows|||
+11-14-2017 | 12:11:28 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:11:33 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:11:35 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 12:11:50 |   192.168.4.55|161201|Register Notice Board|http://localhost/NDUB/ndub-student/public/register/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:13:22 |   192.168.4.55|161201|Register Student Notice Board Submit|http://localhost/NDUB/ndub-student/public/register/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:13:23 |   192.168.4.55|161201|Register Notice Board|http://localhost/NDUB/ndub-student/public/register/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:13:45 |   192.168.4.55|161201|Register Student Notice Board Submit|http://localhost/NDUB/ndub-student/public/register/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:13:46 |   192.168.4.55|161201|Register Notice Board|http://localhost/NDUB/ndub-student/public/register/notice-board|Google Chrome|windows|||
+11-14-2017 | 12:13:51 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/Register|Google Chrome|windows|||
+11-14-2017 | 12:13:53 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:13:59 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:14:01 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:14:11 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:14:14 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:14:28 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:14:49 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:15:38 |   192.168.4.55|1702001|Faculty Edit Profile|http://localhost/NDUB/ndub-student/public/faculty/edit-profile/1702001|Google Chrome|windows|||
+11-14-2017 | 12:15:47 |   192.168.4.55|1702001|Faculty Update Basic Profile|http://localhost/NDUB/ndub-student/public/faculty/edit-profile/1702001|Google Chrome|windows|||
+11-14-2017 | 12:15:49 |   192.168.4.55|1702001|Faculty Edit Profile|http://localhost/NDUB/ndub-student/public/faculty/edit-profile/1702001|Google Chrome|windows|||
+11-14-2017 | 12:16:07 |   192.168.4.55|1702001|Faculty Update Contract Profile|http://localhost/NDUB/ndub-student/public/faculty/update-contract-profile/f939f5ab-c3f9-42fd-9ee9-442d22b42ed8|Google Chrome|windows|||
+11-14-2017 | 12:16:09 |   192.168.4.55|1702001|Faculty Edit Profile|http://localhost/NDUB/ndub-student/public/faculty/edit-profile/1702001|Google Chrome|windows|||
+11-14-2017 | 12:17:01 |   192.168.4.55|1702001|Faculty Update Basic Profile|http://localhost/NDUB/ndub-student/public/faculty/edit-profile/1702001|Google Chrome|windows|||
+11-14-2017 | 12:17:03 |   192.168.4.55|1702001|Faculty Edit Profile|http://localhost/NDUB/ndub-student/public/faculty/edit-profile/1702001|Google Chrome|windows|||
+11-14-2017 | 12:17:12 |   192.168.4.55|1702001|Faculty Update Contract Profile|http://localhost/NDUB/ndub-student/public/faculty/update-contract-profile/f939f5ab-c3f9-42fd-9ee9-442d22b42ed8|Google Chrome|windows|||
+11-14-2017 | 12:17:14 |   192.168.4.55|1702001|Faculty Edit Profile|http://localhost/NDUB/ndub-student/public/faculty/edit-profile/1702001|Google Chrome|windows|||
+11-14-2017 | 12:17:24 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:17:45 |   192.168.4.55|1702001|Class Schedule|http://localhost/NDUB/ndub-student/public/faculty/class-schedule|Google Chrome|windows|||
+11-14-2017 | 12:18:37 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Google Chrome|windows|||
+11-14-2017 | 12:18:40 |   192.168.4.55|1702001|Exam Schedule|http://localhost/NDUB/ndub-student/public/faculty/exam-schedule|Google Chrome|windows|||
+11-14-2017 | 12:20:00 |   192.168.4.55|1702001|Class Schedule|http://localhost/NDUB/ndub-student/public/faculty/class-schedule|Google Chrome|windows|||
+11-14-2017 | 12:20:23 |   192.168.4.55|1702001|Exam Schedule|http://localhost/NDUB/ndub-student/public/faculty/exam-schedule|Google Chrome|windows|||
+11-14-2017 | 12:20:34 |   192.168.4.55|181010011|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..ranar/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:20:34 |   192.168.4.55|181010011|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..ranar/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:20:38 |   192.168.4.55|181010011|Student Academic Course Plan|http://localhost/NDUB/ndub-student/public/student/academic-course-plan|Mozilla Firefox|windows|||
+11-14-2017 | 12:20:39 |   192.168.4.55|181010011|Student Academic Course Plan|http://localhost/NDUB/ndub-student/public/student/academic-course-plan|Mozilla Firefox|windows|||
+11-14-2017 | 12:20:44 |   192.168.4.55|181010011|LogIn|http://localhost/NDUB/ndub-student/public/logout/rezwan..ranar|Mozilla Firefox|windows|||
+11-14-2017 | 12:20:45 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:13 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:16 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:19 |   192.168.4.55|181010001|Student Payment Ledger|http://localhost/NDUB/ndub-student/public/student/payment-history|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:54 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:55 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:57 |   192.168.4.55|181010001|Student Grade Sheet|http://localhost/NDUB/ndub-student/public/student/grade-sheet|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:57 |   192.168.4.55|181010001|Student Grade Sheet|http://localhost/NDUB/ndub-student/public/student/grade-sheet|Mozilla Firefox|windows|||
+11-14-2017 | 12:21:59 |   192.168.4.55|181010001|Student Grade Sheet|http://localhost/NDUB/ndub-student/public/student/grade-sheet?academic_year=2018&semester=1|Mozilla Firefox|windows|||
+11-14-2017 | 12:22:30 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:22:30 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:22:34 |   192.168.4.55|181010001|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 12:22:34 |   192.168.4.55|181010001|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 12:22:39 |   192.168.4.55|181010001|Student Class Schedule|http://localhost/NDUB/ndub-student/public/student/class-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 12:23:00 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:23:00 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:23:11 |   192.168.4.55|181010001|Student Notice View|http://localhost/NDUB/ndub-student/public/student/home/427ad2fb-51d9-466e-8a52-e7446198aa95|Mozilla Firefox|windows|||
+11-14-2017 | 12:31:42 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:33:47 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/logout/naim..isalam|Google Chrome|windows|||
+11-14-2017 | 12:33:49 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:33:58 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 12:40:49 |   192.168.4.55|181010001|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 12:41:09 |   192.168.4.55|181010001|LogIn|http://localhost/NDUB/ndub-student/public/logout/rezwan..rana|Mozilla Firefox|windows|||
+11-14-2017 | 12:41:10 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 12:41:17 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 12:41:19 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:41:39 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:41:39 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:42:35 |   192.168.4.55|161201|Faculty Registration Image|http://localhost/NDUB/ndub-student/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+11-14-2017 | 12:42:37 |   192.168.4.55|161201|Employee Registration Submit|http://localhost/NDUB/ndub-student/public/register/employee-registration/submit|Mozilla Firefox|windows|||
+11-14-2017 | 12:42:39 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:43:32 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:43:32 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:43:36 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/program-list-ajax/03|Mozilla Firefox|windows|||
+11-14-2017 | 12:43:41 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/program-list-ajax/02|Mozilla Firefox|windows|||
+11-14-2017 | 12:44:29 |   192.168.4.55|161201|Faculty Registration Submit|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:44:30 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:44:36 |   192.168.4.55|161201|Faculty Registration Image|http://localhost/NDUB/ndub-student/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+11-14-2017 | 12:44:41 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/program-list-ajax/01|Mozilla Firefox|windows|||
+11-14-2017 | 12:44:42 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/program-list-ajax/02|Mozilla Firefox|windows|||
+11-14-2017 | 12:45:14 |   192.168.4.55|161201|Faculty Registration Submit|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:45:15 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:47:46 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:47:46 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:47:49 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:47:52 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+11-14-2017 | 12:54:02 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:54:02 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:55:29 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/class-teacher-assign|Mozilla Firefox|windows|||
+11-14-2017 | 12:55:41 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/faculty-list-ajax/02|Mozilla Firefox|windows|||
+11-14-2017 | 12:55:41 |   192.168.4.55|161201|Class Teacher Assign|http://localhost/NDUB/ndub-student/public/register/program-list-ajax/02|Mozilla Firefox|windows|||
+11-14-2017 | 12:56:28 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:56:28 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:56:41 |   192.168.4.55|161201|Register Notice Board|http://localhost/NDUB/ndub-student/public/register/notice-board|Mozilla Firefox|windows|||
+11-14-2017 | 12:56:47 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course|Mozilla Firefox|windows|||
+11-14-2017 | 12:56:47 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course|Mozilla Firefox|windows|||
+11-14-2017 | 12:57:14 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=1&term=1|Mozilla Firefox|windows|||
+11-14-2017 | 12:57:18 |   192.168.4.55|161201|Faculty Assigned Course Submit|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course/delete|Mozilla Firefox|windows|||
+11-14-2017 | 12:57:19 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=1&term=1|Mozilla Firefox|windows|||
+11-14-2017 | 12:58:04 |   192.168.4.55|161201|Faculty Assigned Course Submit|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course/insert|Mozilla Firefox|windows|||
+11-14-2017 | 12:58:06 |   192.168.4.55|161201|Faculty Assigned Course|http://localhost/NDUB/ndub-student/public/register/faculty-assigned-course?academic_year=2018&level=1&program=01&semester=1&term=1|Mozilla Firefox|windows|||
+11-14-2017 | 12:58:35 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:58:35 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:58:39 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign|Mozilla Firefox|windows|||
+11-14-2017 | 12:58:49 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign?academic_year=2018&program=01&semester=1|Mozilla Firefox|windows|||
+11-14-2017 | 12:59:27 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:59:27 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 12:59:39 |   192.168.4.55|161201|Register Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list|Mozilla Firefox|windows|||
+11-14-2017 | 12:59:56 |   192.168.4.55|161201|Register Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&course=ENG1103&program=01&semester=2|Mozilla Firefox|windows|||
+11-14-2017 | 13:00:02 |   192.168.4.55|161201|Register Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-14-2017 | 13:00:30 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:00:30 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:00:33 |   192.168.4.55|161201|Register Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course|Mozilla Firefox|windows|||
+11-14-2017 | 13:01:10 |   192.168.4.55|161201|Register Student Withdraw Course|http://localhost/NDUB/ndub-student/public/register/student/withdraw/course?student_no=181010011|Mozilla Firefox|windows|||
+11-14-2017 | 13:01:35 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:01:35 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:04:37 |   192.168.4.55|161201|Student Grade Equivalent|http://localhost/NDUB/ndub-student/public/register/student-grade-equivalent|Mozilla Firefox|windows|||
+11-14-2017 | 13:04:59 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:04:59 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:05:01 |   192.168.4.55|161201|Register Account Summery|http://localhost/NDUB/ndub-student/public/register/account-summery|Mozilla Firefox|windows|||
+11-14-2017 | 13:05:01 |   192.168.4.55|161201|Register Account Summery|http://localhost/NDUB/ndub-student/public/register/account-summery|Mozilla Firefox|windows|||
+11-14-2017 | 13:05:48 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:05:48 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:06:05 |   192.168.4.55|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:06:05 |   192.168.4.55|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:06:31 |   192.168.4.55|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list?academic_year=2018&program=01&semester=1|Mozilla Firefox|windows|||
+11-14-2017 | 13:06:42 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:06:42 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:06:47 |   192.168.4.55|161201|Faculty List|http://localhost/NDUB/ndub-student/public/register/faculty-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:06:47 |   192.168.4.55|161201|Faculty List|http://localhost/NDUB/ndub-student/public/register/faculty-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:07:15 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:07:15 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:07:17 |   192.168.4.55|161201|Employee List|http://localhost/NDUB/ndub-student/public/register/employee-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:07:17 |   192.168.4.55|161201|Employee List|http://localhost/NDUB/ndub-student/public/register/employee-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:07:40 |   192.168.4.55|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:07:40 |   192.168.4.55|161201|Registered Student List|http://localhost/NDUB/ndub-student/public/register/student-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:08:17 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:08:17 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:08:47 |   192.168.4.55|161201|Register Student Grade Sheet|http://localhost/NDUB/ndub-student/public/register/student/grade-sheet|Mozilla Firefox|windows|||
+11-14-2017 | 13:08:47 |   192.168.4.55|161201|Register Student Grade Sheet|http://localhost/NDUB/ndub-student/public/register/student/grade-sheet|Mozilla Firefox|windows|||
+11-14-2017 | 13:08:52 |   192.168.4.55|161201|Register Student Grade Sheet|http://localhost/NDUB/ndub-student/public/register/student/grade-sheet?academic_year=0&semester=0&student_serial_no=181010001|Mozilla Firefox|windows|||
+11-14-2017 | 13:09:21 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:09:21 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:09:27 |   192.168.4.55|161201|Register All Summery|http://localhost/NDUB/ndub-student/public/register/all-summery|Mozilla Firefox|windows|||
+11-14-2017 | 13:09:27 |   192.168.4.55|161201|Register All Summery|http://localhost/NDUB/ndub-student/public/register/all-summery|Mozilla Firefox|windows|||
+11-14-2017 | 13:09:52 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:09:52 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:13 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:13 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:24 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-13&exam_type=2|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:27 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-13/B|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:33 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:39 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:40 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-13&exam_type=2|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:43 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-13/C|Mozilla Firefox|windows|||
+11-14-2017 | 13:11:50 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-13/C|Mozilla Firefox|windows|||
+11-14-2017 | 13:12:10 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-13/D|Mozilla Firefox|windows|||
+11-14-2017 | 13:12:24 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-13&exam_type=2|Mozilla Firefox|windows|||
+11-14-2017 | 13:12:27 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-13/C|Mozilla Firefox|windows|||
+11-14-2017 | 13:12:31 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Mozilla Firefox|windows|||
+11-14-2017 | 13:13:44 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:13:44 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:15:46 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 13:15:46 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 13:16:30 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:16:30 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:16:34 |   192.168.4.55|161201|Employee List|http://localhost/NDUB/ndub-student/public/register/employee-list|Mozilla Firefox|windows|||
+11-14-2017 | 13:16:38 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+11-14-2017 | 13:17:11 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:17:11 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:17:13 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 13:17:13 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+11-14-2017 | 13:18:00 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:18:00 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:18:08 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer|Mozilla Firefox|windows|||
+11-14-2017 | 13:21:51 |   192.168.4.55|161201|Register Student Credit Transfer|http://localhost/NDUB/ndub-student/public/register/student/credit/transfer?program=01|Mozilla Firefox|windows|||
+11-14-2017 | 13:30:24 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:30:24 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:30:26 |   192.168.4.55|161201|Admission List|http://localhost/NDUB/ndub-student/public/register/admission/list|Mozilla Firefox|windows|||
+11-14-2017 | 13:30:32 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:30:32 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 13:30:34 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 13:32:54 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm?applicant_serial_no=181010010|Mozilla Firefox|windows|||
+11-14-2017 | 13:32:55 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 13:33:03 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm?applicant_serial_no=181010004|Mozilla Firefox|windows|||
+11-14-2017 | 13:33:04 |   192.168.4.55|161201|Admission Confirm|http://localhost/NDUB/ndub-student/public/register/admission/confirm|Mozilla Firefox|windows|||
+11-14-2017 | 14:12:16 |   192.168.4.55|161201|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 14:12:19 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application|Mozilla Firefox|windows|||
+11-14-2017 | 14:12:21 |   192.168.4.55|161201|Applicant Information|http://localhost/NDUB/ndub-student/public/online-application/applicant|Mozilla Firefox|windows|||
+11-14-2017 | 14:12:40 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/181010007|Mozilla Firefox|windows|||
+11-14-2017 | 14:12:44 |   192.168.4.55|161201|Applicant Admission Result|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result|Mozilla Firefox|windows|||
+11-14-2017 | 14:12:50 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result/search/181010007|Mozilla Firefox|windows|||
+11-14-2017 | 14:13:15 |   192.168.4.55|161201|Applicant Information|http://localhost/NDUB/ndub-student/public/online-application/applicant|Mozilla Firefox|windows|||
+11-14-2017 | 14:13:22 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/181010006|Mozilla Firefox|windows|||
+11-14-2017 | 14:13:34 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/181010008|Mozilla Firefox|windows|||
+11-14-2017 | 14:14:03 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/A181012357313|Mozilla Firefox|windows|||
+11-14-2017 | 14:14:25 |   192.168.4.55|161201|Applicant Admission Result|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result|Mozilla Firefox|windows|||
+11-14-2017 | 14:14:28 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result/search/A181012357313|Mozilla Firefox|windows|||
+11-14-2017 | 14:14:42 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result/search/A181011308593|Mozilla Firefox|windows|||
+11-14-2017 | 14:14:47 |   192.168.4.55|161201|Applicant Information|http://localhost/NDUB/ndub-student/public/online-application/applicant|Mozilla Firefox|windows|||
+11-14-2017 | 14:14:50 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/A181011308593|Mozilla Firefox|windows|||
+11-14-2017 | 14:15:03 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 14:15:21 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/image|Mozilla Firefox|windows|||
+11-14-2017 | 14:15:24 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/entry/validation/SSC-878787-12|Mozilla Firefox|windows|||
+11-14-2017 | 14:15:52 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/basic-info|Mozilla Firefox|windows|||
+11-14-2017 | 14:15:53 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 14:16:27 |   192.168.4.55|161201|Applicant Subject Add|http://localhost/NDUB/ndub-student/public/online-application/form/6/hsc|Mozilla Firefox|windows|||
+11-14-2017 | 14:16:48 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/academic-info|Mozilla Firefox|windows|||
+11-14-2017 | 14:16:49 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 14:16:59 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/academic-info|Mozilla Firefox|windows|||
+11-14-2017 | 14:17:00 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 14:17:07 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/academic-info|Mozilla Firefox|windows|||
+11-14-2017 | 14:17:08 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 14:17:30 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/personal-info|Mozilla Firefox|windows|||
+11-14-2017 | 14:17:31 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 14:17:53 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/contact-info|Mozilla Firefox|windows|||
+11-14-2017 | 14:17:54 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form/complete|Mozilla Firefox|windows|||
+11-14-2017 | 14:18:17 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||
+11-14-2017 | 14:18:19 |   192.168.4.55|161201|Applicant Information|http://localhost/NDUB/ndub-student/public/online-application/applicant|Mozilla Firefox|windows|||
+11-14-2017 | 14:18:23 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 14:19:14 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/logout/md.moudud.sabbir|Google Chrome|windows|||
+11-14-2017 | 14:19:17 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 14:19:29 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 14:19:31 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Google Chrome|windows|||
+11-14-2017 | 14:19:49 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Google Chrome|windows|||
+11-14-2017 | 14:19:52 |   192.168.4.55|161101|Applicant Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/payment|Google Chrome|windows|||
+11-14-2017 | 14:19:58 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Google Chrome|windows|||
+11-14-2017 | 14:20:01 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181015776095|Google Chrome|windows|||
+11-14-2017 | 14:20:04 |   192.168.4.55|161101|Accounts|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment/received/A181015776095|Google Chrome|windows|||
+11-14-2017 | 14:20:11 |   192.168.4.55|161201|Applicant Admission Result|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result|Mozilla Firefox|windows|||
+11-14-2017 | 14:20:14 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result/search/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 14:20:15 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181015776095|Google Chrome|windows|||
+11-14-2017 | 14:20:25 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/logout/deal.gomes|Google Chrome|windows|||
+11-14-2017 | 14:20:27 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 14:20:32 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 14:20:33 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 14:20:35 |   192.168.4.55|161201|Admission List|http://localhost/NDUB/ndub-student/public/register/admission/list|Google Chrome|windows|||
+11-14-2017 | 14:20:36 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Google Chrome|windows|||
+11-14-2017 | 14:20:38 |   192.168.4.55|161201|Register|http://localhost/NDUB/ndub-student/public/register/candidate/approved/A181015776095/3|Google Chrome|windows|||
+11-14-2017 | 14:20:39 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Google Chrome|windows|||
+11-14-2017 | 14:20:43 |   192.168.4.55|161201|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result/search/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 14:54:00 |   192.168.4.55|161201|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 14:54:02 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 14:54:03 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-14-2017 | 14:54:08 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/Register|Mozilla Firefox|windows|||
+11-14-2017 | 14:54:10 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 14:54:17 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 15:01:09 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/logout/md.moudud.sabbir|Mozilla Firefox|windows|||
+11-14-2017 | 15:01:11 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 15:01:16 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 15:01:18 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-14-2017 | 15:20:16 |   192.168.4.55|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 15:42:11 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/logout/deal.gomes|Mozilla Firefox|windows|||
+11-14-2017 | 15:42:14 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 15:42:56 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 15:42:59 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-14-2017 | 15:57:58 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/Register|Google Chrome|windows|||
+11-14-2017 | 15:57:59 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 15:58:44 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 15:58:47 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 15:59:07 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 15:59:08 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 15:59:48 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 16:00:14 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/logout/md.moudud.sabbir|Google Chrome|windows|||
+11-14-2017 | 16:00:16 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 16:00:22 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 16:00:24 |   192.168.4.55|1702002|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/rezwan..rana/home|Google Chrome|windows|||
+11-14-2017 | 16:52:01 |   192.168.4.55|1702001|Exam Schedule|http://localhost/NDUB/ndub-student/public/faculty/exam-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 16:52:17 |   192.168.4.55|1702001|Invigilator Schedule Download|http://localhost/NDUB/ndub-student/public/faculty/invigilator-schedule-download|Mozilla Firefox|windows|||
+11-14-2017 | 16:52:51 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/logout/rezwan..rana|Google Chrome|windows|||
+11-14-2017 | 16:52:53 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 16:52:59 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-14-2017 | 16:53:01 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 16:53:12 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Google Chrome|windows|||
+11-14-2017 | 16:53:20 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-01&exam_type=2|Google Chrome|windows|||
+11-14-2017 | 16:53:22 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-01/A|Google Chrome|windows|||
+11-14-2017 | 16:53:27 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 16:53:44 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 16:53:45 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-01&exam_type=2|Google Chrome|windows|||
+11-14-2017 | 16:53:55 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2017-11-01/B|Google Chrome|windows|||
+11-14-2017 | 16:53:59 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 16:54:02 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 16:54:03 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2017-11-01&exam_type=2|Google Chrome|windows|||
+11-14-2017 | 16:54:10 |   192.168.4.55|1702001|Exam Schedule|http://localhost/NDUB/ndub-student/public/faculty/exam-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 16:54:40 |   192.168.4.55|161201|Exam Time Slot List|http://localhost/NDUB/ndub-student/public/register/time-slot-list-ajax/2|Google Chrome|windows|||
+11-14-2017 | 16:54:57 |   192.168.4.55|161201|Exam Time Slot List|http://localhost/NDUB/ndub-student/public/register/time-slot-list-ajax/3|Google Chrome|windows|||
+11-14-2017 | 16:55:13 |   192.168.4.55|161201|Register Exam Invigilators Submit|http://localhost/NDUB/ndub-student/public/register/exam/invigilators/submit|Google Chrome|windows|||
+11-14-2017 | 16:55:14 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?tab=exam_invigilators|Google Chrome|windows|||
+11-14-2017 | 16:55:26 |   192.168.4.55|1702001|Exam Schedule|http://localhost/NDUB/ndub-student/public/faculty/exam-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 16:55:45 |   192.168.4.55|161201|Exam Time Slot List|http://localhost/NDUB/ndub-student/public/register/time-slot-list-ajax/2|Google Chrome|windows|||
+11-14-2017 | 16:55:52 |   192.168.4.55|161201|Register Exam Invigilators Submit|http://localhost/NDUB/ndub-student/public/register/exam/invigilators/submit|Google Chrome|windows|||
+11-14-2017 | 16:55:54 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?tab=exam_invigilators|Google Chrome|windows|||
+11-14-2017 | 16:56:00 |   192.168.4.55|1702001|Exam Schedule|http://localhost/NDUB/ndub-student/public/faculty/exam-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 16:57:13 |   192.168.4.55|1702001|Invigilator Schedule Download|http://localhost/NDUB/ndub-student/public/faculty/invigilator-schedule-download|Mozilla Firefox|windows|||
+11-14-2017 | 17:03:11 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/logout/naim..isalam|Mozilla Firefox|windows|||
+11-14-2017 | 17:03:13 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 17:03:25 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 17:03:27 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:03:43 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 17:04:35 |   192.168.4.55|181010001|Student Class Schedule|http://localhost/NDUB/ndub-student/public/student/class-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 17:04:45 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Google Chrome|windows|||
+11-14-2017 | 17:04:48 |   192.168.4.55|161201|Ajax Course List|http://localhost/NDUB/ndub-student/public/register/ajax-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:04:48 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/01|Google Chrome|windows|||
+11-14-2017 | 17:04:55 |   192.168.4.55|161201|Ajax Room List|http://localhost/NDUB/ndub-student/public/register/ajax-room-list/AC01|Google Chrome|windows|||
+11-14-2017 | 17:04:57 |   192.168.4.55|161201|Ajax Class Day|http://localhost/NDUB/ndub-student/public/register/ajax-class-day/AC01-0203|Google Chrome|windows|||
+11-14-2017 | 17:04:59 |   192.168.4.55|161201|Ajax Time Slot|http://localhost/NDUB/ndub-student/public/register/ajax-time-slot/AC01-0203/Sunday|Google Chrome|windows|||
+11-14-2017 | 17:05:02 |   192.168.4.55|161201|Ajax Faculty List|http://localhost/NDUB/ndub-student/public/register/ajax-faculty-list/Sunday/08:30%20am-10:00%20am|Google Chrome|windows|||
+11-14-2017 | 17:05:06 |   192.168.4.55|161201|Class Schedule Submit|http://localhost/NDUB/ndub-student/public/register/class-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:05:07 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Google Chrome|windows|||
+11-14-2017 | 17:05:13 |   192.168.4.55|181010001|Student Class Schedule|http://localhost/NDUB/ndub-student/public/student/class-schedule|Mozilla Firefox|windows|||
+11-14-2017 | 17:06:46 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:06:46 |   192.168.4.55|181010001|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..rana/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:22:49 |   192.168.4.55|181010001|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:23:10 |   192.168.4.55|181010001|LogIn|http://localhost/NDUB/ndub-student/public/logout/rezwan..rana|Mozilla Firefox|windows|||
+11-14-2017 | 17:23:11 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 17:23:22 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 17:23:23 |   192.168.4.55|181010006|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/naim..jamal/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:23:26 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:24:50 |   192.168.4.55|181010006|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/naim..jamal/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:24:50 |   192.168.4.55|181010006|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/naim..jamal/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:25:30 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:25:31 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:25:41 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 17:26:16 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Google Chrome|windows|||
+11-14-2017 | 17:26:37 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-02-16&exam_type=2|Google Chrome|windows|||
+11-14-2017 | 17:26:39 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2018-02-16/B|Google Chrome|windows|||
+11-14-2017 | 17:26:43 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:26:53 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:26:54 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-02-16&exam_type=2|Google Chrome|windows|||
+11-14-2017 | 17:26:58 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:27:12 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/2/2018-02-16/B|Google Chrome|windows|||
+11-14-2017 | 17:27:17 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:27:25 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:27:26 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-02-16&exam_type=2|Google Chrome|windows|||
+11-14-2017 | 17:27:31 |   192.168.4.55|161201|Exam Schedule Delete|http://localhost/NDUB/ndub-student/public/register/exam/schedule-delete/d1703373-b5ad-4b5e-9b13-03509920fbbf|Google Chrome|windows|||
+11-14-2017 | 17:27:33 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-02-16&exam_type=2|Google Chrome|windows|||
+11-14-2017 | 17:27:46 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:27:50 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/3/2018-04-13/A|Google Chrome|windows|||
+11-14-2017 | 17:27:54 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:27:58 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:27:59 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:28:04 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:28:33 |   192.168.4.55|161201|Exam Schedule Delete|http://localhost/NDUB/ndub-student/public/register/exam/schedule-delete/13ad29e4-c146-4b79-892c-dbd515a73a68|Google Chrome|windows|||
+11-14-2017 | 17:28:34 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:28:43 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:28:47 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0101/3/2018-04-13/A|Google Chrome|windows|||
+11-14-2017 | 17:29:01 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:29:06 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:29:08 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:29:38 |   192.168.4.55|161201|Exam Schedule Delete|http://localhost/NDUB/ndub-student/public/register/exam/schedule-delete/ac14a102-db9e-4f30-aa41-4d0b2634ee6e|Google Chrome|windows|||
+11-14-2017 | 17:29:39 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:29:42 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0101/3/2018-04-13/A|Google Chrome|windows|||
+11-14-2017 | 17:29:46 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:29:49 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:29:51 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:30:00 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:30:04 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:30:15 |   192.168.4.55|161201|Exam Schedule Delete|http://localhost/NDUB/ndub-student/public/register/exam/schedule-delete/3d01934d-bf4c-4343-a73b-6ee891338761|Google Chrome|windows|||
+11-14-2017 | 17:30:16 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:30:18 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0101/3/2018-04-13/A|Google Chrome|windows|||
+11-14-2017 | 17:30:22 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:30:26 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:30:28 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:30:33 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:30:50 |   192.168.4.55|161201|Exam Schedule Delete|http://localhost/NDUB/ndub-student/public/register/exam/schedule-delete/e1957478-a1d7-4ca4-aba2-4ac29e505537|Google Chrome|windows|||
+11-14-2017 | 17:30:51 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-13&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:30:53 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:37:01 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 17:37:09 |   192.168.4.55|161201|Time Slot|http://localhost/NDUB/ndub-student/public/register/univ-time-slot|Google Chrome|windows|||
+11-14-2017 | 17:37:20 |   192.168.4.55|161201|Time Slot Delete|http://localhost/NDUB/ndub-student/public/register/time-slot-delete/841fce68-d2a5-44c1-a242-d5fc50cf4f4b|Google Chrome|windows|||
+11-14-2017 | 17:37:22 |   192.168.4.55|161201|Time Slot|http://localhost/NDUB/ndub-student/public/register/univ-time-slot|Google Chrome|windows|||
+11-14-2017 | 17:37:30 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 17:37:33 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule|Google Chrome|windows|||
+11-14-2017 | 17:37:48 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-19&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:37:51 |   192.168.4.55|161201|Exam Schedule Modal|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-modal/AC01-0203/3/2018-04-19/A|Google Chrome|windows|||
+11-14-2017 | 17:37:58 |   192.168.4.55|161201|Ajax Exam Course List|http://localhost/NDUB/ndub-student/public/register/ajax-exam-course-list/01|Google Chrome|windows|||
+11-14-2017 | 17:38:06 |   192.168.4.55|161201|Exam Schedule Submit|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule-submit|Google Chrome|windows|||
+11-14-2017 | 17:38:07 |   192.168.4.55|161201|Exam Schedule|http://localhost/NDUB/ndub-student/public/register/schedule/exam-schedule?exam_date=2018-04-19&exam_type=3|Google Chrome|windows|||
+11-14-2017 | 17:38:13 |   192.168.4.55|181010006|Student Exam Routine|http://localhost/NDUB/ndub-student/public/student/exam-routine|Mozilla Firefox|windows|||
+11-14-2017 | 17:41:13 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 17:41:16 |   192.168.4.55|161201|Time Slot|http://localhost/NDUB/ndub-student/public/register/univ-time-slot|Google Chrome|windows|||
+11-14-2017 | 17:54:40 |   192.168.4.55|181010006|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 17:54:43 |   192.168.4.55|181010006|Online Application|http://localhost/NDUB/ndub-student/public/online-application|Mozilla Firefox|windows|||
+11-14-2017 | 17:54:46 |   192.168.4.55|181010006|Applicant Information|http://localhost/NDUB/ndub-student/public/online-application/applicant|Mozilla Firefox|windows|||
+11-14-2017 | 17:55:05 |   192.168.4.55|181010006|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:55:15 |   192.168.4.55|181010006|Applicant Admission Result|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result|Mozilla Firefox|windows|||
+11-14-2017 | 17:55:18 |   192.168.4.55|181010006|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/admission-result/search/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:55:40 |   192.168.4.55|181010006|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 17:55:41 |   192.168.4.55|181010006|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 17:55:42 |   192.168.4.55|181010006|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/naim..jamal/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:55:45 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 17:55:45 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Google Chrome|windows|||
+11-14-2017 | 17:55:55 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Google Chrome|windows|||
+11-14-2017 | 17:56:22 |   192.168.4.55|161201|Applicant List|http://localhost/NDUB/ndub-student/public/register/applicant/list|Google Chrome|windows|||
+11-14-2017 | 17:56:33 |   192.168.4.55|181010006|LogIn|http://localhost/NDUB/ndub-student/public/logout/naim..jamal|Mozilla Firefox|windows|||
+11-14-2017 | 17:56:34 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 17:56:42 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-14-2017 | 17:56:43 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:56:47 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Mozilla Firefox|windows|||
+11-14-2017 | 17:56:50 |   192.168.4.55|161101|Applicant Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/payment|Mozilla Firefox|windows|||
+11-14-2017 | 17:56:53 |   192.168.4.55|161101|Applicants Payment Undone|http://localhost/NDUB/ndub-student/public/accounts/applicant/payemnt-undone/cash/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:56:55 |   192.168.4.55|161101|Applicant Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/payment|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:01 |   192.168.4.55|161101|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:03 |   192.168.4.55|161101|Online Application|http://localhost/NDUB/ndub-student/public/online-application|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:05 |   192.168.4.55|161101|Applicant Information|http://localhost/NDUB/ndub-student/public/online-application/applicant|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:08 |   192.168.4.55|161101|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:21 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:21 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:23 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:23 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:26 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:30 |   192.168.4.55|161101|Accounts|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment/received/A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:45 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:45 |   192.168.4.55|161101|Applicant Cash Payment|http://localhost/NDUB/ndub-student/public/accounts/applicant/cash-payment?applicant_serial_no=A181015776095|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:57 |   192.168.4.55|161101|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+11-14-2017 | 17:57:58 |   192.168.4.55|161101|Online Application|http://localhost/NDUB/ndub-student/public/online-application|Mozilla Firefox|windows|||
+11-14-2017 | 17:58:00 |   192.168.4.55|161101|Applicant Information|http://localhost/NDUB/ndub-student/public/online-application/applicant|Mozilla Firefox|windows|||
+11-14-2017 | 17:58:03 |   192.168.4.55|161101|Online Application|http://localhost/NDUB/ndub-student/public/online-application/applicant/info/A181015776095|Mozilla Firefox|windows|||

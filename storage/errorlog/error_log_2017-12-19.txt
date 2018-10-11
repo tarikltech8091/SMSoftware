@@ -1,0 +1,1 @@
+12-19-2017 | 16:38:46 |   192.168.4.55|161201|http://localhost/NDUB/ndub-student/public/register/existing/student/submit|Message : Undefined variable: others_fees, File : G:\xampp\htdocs\NDUB\ndub-student\app\Http\Controllers\RegisterController.php, Line : 5878

@@ -1,0 +1,55 @@
+01-16-2018 | 12:14:30 |   127.0.0.1|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+01-16-2018 | 12:14:36 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-16-2018 | 12:14:47 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-16-2018 | 12:14:52 |   127.0.0.1|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-16-2018 | 12:14:56 |   127.0.0.1|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-16-2018 | 12:15:16 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course|Mozilla Firefox|windows|||
+01-16-2018 | 12:15:21 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:15:26 |   127.0.0.1|161201|Registrar Booking Supplimentry Course Confirm|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course/confirm|Mozilla Firefox|windows|||
+01-16-2018 | 12:15:28 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:15:30 |   127.0.0.1|161201|Registrar Supplimentry Course Delete|http://localhost/NDUB/ndub-student/public/register/supplimentry/delete/4e2929c4-cde0-45de-8baa-09721af23b9e|Mozilla Firefox|windows|||
+01-16-2018 | 12:15:31 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:18:58 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:19:01 |   127.0.0.1|161201|Registrar Booking Supplimentry Course Confirm|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course/confirm|Mozilla Firefox|windows|||
+01-16-2018 | 12:19:03 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:19:07 |   127.0.0.1|161201|Registrar Supplimentry Course Delete|http://localhost/NDUB/ndub-student/public/register/supplimentry/delete/a39812a6-39a8-4125-8b9d-f2ae4da975b6|Mozilla Firefox|windows|||
+01-16-2018 | 12:19:08 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:19:55 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:19:59 |   127.0.0.1|161201|Registrar Booking Supplimentry Course Confirm|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course/confirm|Mozilla Firefox|windows|||
+01-16-2018 | 12:20:01 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:20:03 |   127.0.0.1|161201|Registrar Supplimentry Course Delete|http://localhost/NDUB/ndub-student/public/register/supplimentry/delete/8cbe1a2d-a508-4fb1-953b-e23af0ece147|Mozilla Firefox|windows|||
+01-16-2018 | 12:20:07 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:20:11 |   127.0.0.1|161201|Registrar Booking Supplimentry Course Confirm|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course/confirm|Mozilla Firefox|windows|||
+01-16-2018 | 12:20:13 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:15 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:17 |   127.0.0.1|161201|Registrar Supplimentry Course Delete|http://localhost/NDUB/ndub-student/public/register/supplimentry/delete/1460fb1d-f0c4-4c19-95eb-5a2fd6e4c386|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:18 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:23 |   127.0.0.1|161201|Registrar Booking Supplimentry Course Confirm|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course/confirm|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:24 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:26 |   127.0.0.1|161201|Registrar Supplimentry Course Delete|http://localhost/NDUB/ndub-student/public/register/supplimentry/delete/0ce25ff8-a12a-4ffa-bd59-ff779b4a7c61|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:27 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:44 |   127.0.0.1|161201|Registrar Booking Supplimentry Course Confirm|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course/confirm|Mozilla Firefox|windows|||
+01-16-2018 | 12:27:47 |   127.0.0.1|161201|Registrar Booking Supplimentry Course|http://localhost/NDUB/ndub-student/public/register/student/booking/supplimentry/course?student_serial_no=183010001|Mozilla Firefox|windows|||
+01-16-2018 | 14:13:24 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-16-2018 | 15:40:41 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/logout/Register|Mozilla Firefox|windows|||
+01-16-2018 | 15:40:43 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-16-2018 | 15:40:53 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-16-2018 | 15:40:56 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+01-16-2018 | 15:41:00 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+01-16-2018 | 15:41:00 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+01-16-2018 | 15:41:03 |   127.0.0.1|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+01-16-2018 | 15:41:03 |   127.0.0.1|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+01-16-2018 | 15:41:49 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-bachelor_of_business_administration|Mozilla Firefox|windows|||
+01-16-2018 | 15:44:29 |   127.0.0.1|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?page=2&tab=program|Mozilla Firefox|windows|||
+01-16-2018 | 15:44:43 |   127.0.0.1|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?page=1&tab=program|Mozilla Firefox|windows|||
+01-16-2018 | 15:45:01 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-bachelor_of_arts_in_economics|Mozilla Firefox|windows|||
+01-16-2018 | 15:45:16 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-bachelor_of_arts_in_economics|Mozilla Firefox|windows|||
+01-16-2018 | 15:45:52 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-bachelor_of_arts_in_english_language_&_literature_|Mozilla Firefox|windows|||
+01-16-2018 | 15:46:33 |   127.0.0.1|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?page=2&tab=program|Mozilla Firefox|windows|||
+01-16-2018 | 15:47:13 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-masters_of_business_administration_(executive)|Mozilla Firefox|windows|||
+01-16-2018 | 15:47:29 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-masters_of_business_administration_(bba_graduate)|Mozilla Firefox|windows|||
+01-16-2018 | 15:47:41 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-masters_of_business_administration_(bba_graduate)|Mozilla Firefox|windows|||
+01-16-2018 | 15:48:12 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-masters_of_business_administration_(regular)|Mozilla Firefox|windows|||
+01-16-2018 | 15:48:39 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-masters_of_business_administration_(bba_graduate)|Mozilla Firefox|windows|||
+01-16-2018 | 15:48:52 |   127.0.0.1|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-masters_of_business_administration_(regular)|Mozilla Firefox|windows|||
+01-16-2018 | 17:44:18 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||

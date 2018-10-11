@@ -1,0 +1,32 @@
+01-10-2018 | 12:15:08 |   127.0.0.1|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+01-10-2018 | 12:15:26 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 12:16:26 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 12:16:32 |   127.0.0.1|1702001|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 12:16:37 |   127.0.0.1|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+01-10-2018 | 12:16:58 |   127.0.0.1|1702001|LogIn|http://localhost/NDUB/ndub-student/public/logout/naim..isalam|Mozilla Firefox|windows|||
+01-10-2018 | 12:17:04 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 12:19:11 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 12:19:13 |   127.0.0.1|181010011|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+01-10-2018 | 12:19:34 |   127.0.0.1|181010011|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 12:19:47 |   127.0.0.1|182010002|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/erwsererw..rweer/home|Mozilla Firefox|windows|||
+01-10-2018 | 12:20:09 |   127.0.0.1|182010002|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+01-10-2018 | 12:20:10 |   127.0.0.1|182010002|Student Pre Advising|http://localhost/NDUB/ndub-student/public/student/pre-advising|Mozilla Firefox|windows|||
+01-10-2018 | 13:14:10 |   127.0.0.1|182010002|Student Academic Course Plan|http://localhost/NDUB/ndub-student/public/student/academic-course-plan|Mozilla Firefox|windows|||
+01-10-2018 | 13:14:19 |   127.0.0.1|182010002|Ajax Student Course Plan Details|http://localhost/NDUB/ndub-student/public/student/course-plan-details/01/core_courses|Mozilla Firefox|windows|||
+01-10-2018 | 13:34:11 |   127.0.0.1|182010002|LogIn|http://localhost/NDUB/ndub-student/public/logout/erwsererw..rweer|Mozilla Firefox|windows|||
+01-10-2018 | 13:34:13 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 13:34:21 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 13:34:22 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+01-10-2018 | 13:34:26 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+01-10-2018 | 13:34:39 |   127.0.0.1|161301|View Degree Plan|http://localhost/NDUB/ndub-student/public/academic-settings/view/degree-plan-detail/14c6a025-e2c8-4a89-957a-e253405dcbf7|Mozilla Firefox|windows|||
+01-10-2018 | 13:36:41 |   127.0.0.1|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+01-10-2018 | 13:36:43 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 13:36:50 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 13:36:53 |   127.0.0.1|181010011|Student Dashboard|http://localhost/NDUB/ndub-student/public/student/rezwan..ranar/home|Mozilla Firefox|windows|||
+01-10-2018 | 13:36:56 |   127.0.0.1|181010011|Student Academic Course Plan|http://localhost/NDUB/ndub-student/public/student/academic-course-plan|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:26 |   127.0.0.1|181010011|LogIn|http://localhost/NDUB/ndub-student/public/logout/rezwan..ranar|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:28 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:38 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:40 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:42 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+01-10-2018 | 13:58:42 |   127.0.0.1|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||

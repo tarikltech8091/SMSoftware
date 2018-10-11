@@ -1,0 +1,1 @@
+01-14-2018 | 13:07:23 |   192.168.4.55|161301|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/f528ad4d-cc34-4641-a38f-5e3066e212e3|Message : Error Processing Request, File : G:\xampp\htdocs\NDUB\ndub-student\app\Http\Controllers\AcademicSetupController.php, Line : 2514

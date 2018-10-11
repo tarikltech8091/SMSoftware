@@ -1,0 +1,27 @@
+01-04-2018 | 11:22:41 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-04-2018 | 12:14:54 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-04-2018 | 12:15:09 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-04-2018 | 12:15:13 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-04-2018 | 12:15:21 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-04-2018 | 12:15:34 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list|Mozilla Firefox|windows|||
+01-04-2018 | 12:15:50 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&attendance_date_value=2018-01-04&course=ENG1103&program=01&semester=3|Mozilla Firefox|windows|||
+01-04-2018 | 12:16:25 |   192.168.4.55|161201|Registrar Student Attendance List|http://localhost/NDUB/ndub-student/public/register/attendance/percent|Mozilla Firefox|windows|||
+01-04-2018 | 12:16:45 |   192.168.4.55|161201|Registrar Student Attendance List|http://localhost/NDUB/ndub-student/public/register/attendance/percent?academic_year=2018&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+01-04-2018 | 12:16:51 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-04-2018 | 12:17:01 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list|Mozilla Firefox|windows|||
+01-04-2018 | 12:17:01 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list|Mozilla Firefox|windows|||
+01-04-2018 | 12:17:12 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&attendance_date_value=2018-01-04&course=ENG1103&program=01&semester=3|Mozilla Firefox|windows|||
+01-04-2018 | 12:17:23 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&attendance_date_value=2018-01-04&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+01-04-2018 | 12:17:35 |   192.168.4.55|161201|Registrar Attendance Submit|http://localhost/NDUB/ndub-student/public/register/student/attendance/list/submit|Mozilla Firefox|windows|||
+01-04-2018 | 12:17:40 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&attendance_date_value=2018-01-04&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:02 |   192.168.4.55|161201|Registrar Attendance Submit|http://localhost/NDUB/ndub-student/public/register/student/attendance/list/submit|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:05 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&attendance_date_value=2018-01-04&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:19 |   192.168.4.55|161201|Registrar Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:30 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:31 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:35 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-08|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:36 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+01-04-2018 | 12:19:41 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign?academic_year=2018&batch_no=2&program=01&semester=0|Mozilla Firefox|windows|||
+01-04-2018 | 12:22:57 |   192.168.4.55|161201|Registrar Trimester Student Assign Submit|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign-submit|Mozilla Firefox|windows|||
+01-04-2018 | 12:23:00 |   192.168.4.55|161201|Trimester Student Assign|http://localhost/NDUB/ndub-student/public/register/trimester-student-assign?academic_year=2018&batch_no=2&program=01&semester=0|Mozilla Firefox|windows|||
+01-04-2018 | 14:07:33 |   192.168.4.55|guest|Online Application|http://localhost/NDUB/ndub-student/public/online-application/form|Mozilla Firefox|windows|||

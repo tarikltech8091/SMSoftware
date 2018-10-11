@@ -1,0 +1,671 @@
+10-29-2017 | 10:49:38 |   192.168.4.55|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+10-29-2017 | 10:49:59 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 10:50:15 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 10:50:17 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+10-29-2017 | 10:56:10 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 10:56:52 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 10:57:32 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 10:57:37 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 10:58:01 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 10:59:33 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 10:59:34 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:06:00 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:06:37 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:06:45 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/logout/md.moudud.sabbir|Mozilla Firefox|windows|||
+10-29-2017 | 11:06:46 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:06:55 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:06:55 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:07:04 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:07:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:07:08 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:07:13 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:10:14 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:10:21 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:10:24 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:10:27 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 11:10:27 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:10:33 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:11:38 |   192.168.4.55|161501|Change Password|http://localhost/NDUB/ndub-student/public/systemadmin/change-password/161501|Mozilla Firefox|windows|||
+10-29-2017 | 11:11:41 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/logout/md.moudud.sabbir|Mozilla Firefox|windows|||
+10-29-2017 | 11:11:42 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:11:47 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:11:48 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:11:55 |   192.168.4.55|161201|Faculty Registration|http://localhost/NDUB/ndub-student/public/register/faculty-account-registration|Mozilla Firefox|windows|||
+10-29-2017 | 11:12:10 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 11:12:11 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:12:32 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:12:33 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/mr.jonny/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:12:40 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+10-29-2017 | 11:12:40 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+10-29-2017 | 11:13:27 |   192.168.4.55|161201|Employee Registration Submit|http://localhost/NDUB/ndub-student/public/register/employee-registration/submit|Mozilla Firefox|windows|||
+10-29-2017 | 11:13:28 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+10-29-2017 | 11:13:39 |   192.168.4.55|161201|Faculty Registration Image|http://localhost/NDUB/ndub-student/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+10-29-2017 | 11:13:55 |   192.168.4.55|161201|Employee Registration Submit|http://localhost/NDUB/ndub-student/public/register/employee-registration/submit|Mozilla Firefox|windows|||
+10-29-2017 | 11:13:55 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+10-29-2017 | 11:14:13 |   192.168.4.55|161201|Faculty Registration Image|http://localhost/NDUB/ndub-student/public/register/register-faculty-account/image-upload|Mozilla Firefox|windows|||
+10-29-2017 | 11:14:16 |   192.168.4.55|161201|Employee Registration Submit|http://localhost/NDUB/ndub-student/public/register/employee-registration/submit|Mozilla Firefox|windows|||
+10-29-2017 | 11:14:19 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+10-29-2017 | 11:14:26 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/logout/mr.jonny|Mozilla Firefox|windows|||
+10-29-2017 | 11:14:26 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:14:35 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:21:28 |   192.168.4.55|161501|LogIn|http://localhost/NDUB/ndub-student/public/logout/md.moudud.sabbir|Mozilla Firefox|windows|||
+10-29-2017 | 11:21:29 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:21:53 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 11:21:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:00 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:00 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:15 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/ew|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:16 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:21 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:22 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:28 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/ew|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:29 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:35 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:39 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/ss|Mozilla Firefox|windows|||
+10-29-2017 | 11:22:40 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:33:43 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:33:45 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:33:54 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/ew|Mozilla Firefox|windows|||
+10-29-2017 | 11:33:55 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:35:57 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:36:01 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/asss|Mozilla Firefox|windows|||
+10-29-2017 | 11:36:01 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:38:24 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:39:00 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/asss|Mozilla Firefox|windows|||
+10-29-2017 | 11:39:01 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:39:16 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/asss|Mozilla Firefox|windows|||
+10-29-2017 | 11:39:17 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:39:22 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/ew|Mozilla Firefox|windows|||
+10-29-2017 | 11:39:23 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:39:50 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:40:08 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/ew|Mozilla Firefox|windows|||
+10-29-2017 | 11:40:09 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:40:41 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/ss|Mozilla Firefox|windows|||
+10-29-2017 | 11:40:42 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:40:46 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/asss|Mozilla Firefox|windows|||
+10-29-2017 | 11:40:47 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:41:41 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:41:46 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:41:47 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:53:17 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:53:20 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/fsd|Mozilla Firefox|windows|||
+10-29-2017 | 11:53:22 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:54:42 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:55:03 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:55:04 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 11:59:17 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/df|Mozilla Firefox|windows|||
+10-29-2017 | 11:59:18 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:00:00 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:00:02 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:01:00 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:01:58 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/de|Mozilla Firefox|windows|||
+10-29-2017 | 12:01:59 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:02:02 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:02:49 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:02:50 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:03:06 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:04:00 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:04:01 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:05:45 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:05:53 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:05:57 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:06:02 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:07:35 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:07:36 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:07:41 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/fsddfs|Mozilla Firefox|windows|||
+10-29-2017 | 12:07:42 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:08:21 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:08:23 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:12:32 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:12:34 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:14:25 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:14:33 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:14:34 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:22:19 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:22:27 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:22:28 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:23:39 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:23:42 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:23:51 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:23:51 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:24:28 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:24:55 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:25:02 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:25:03 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:26:49 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:26:59 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:27:00 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:28:55 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:28:55 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:29:03 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:33:56 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:34:01 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:34:02 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:34:18 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:34:19 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:43:38 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:43:47 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:43:48 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:44:57 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:45:02 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:45:03 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:46:32 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:46:37 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:46:38 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:46:43 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:46:52 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:46:52 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:48:07 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:49:03 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:49:08 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:49:09 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:52:27 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:52:32 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:53:39 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:53:46 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:53:51 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 12:53:52 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:00:03 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:00:04 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:00:23 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:00:24 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:03:25 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:03:35 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:03:36 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:20:52 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:21:30 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:21:31 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:22:04 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:22:05 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:22:07 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:22:12 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:22:42 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:22:44 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:30:46 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:30:56 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:30:58 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:31:23 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:31:25 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:32:08 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:32:15 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:32:16 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:32:42 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:33:24 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:33:26 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:33:33 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:33:41 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:33:42 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:34:30 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:34:32 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:41:07 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/dsdsfsdfsd|Mozilla Firefox|windows|||
+10-29-2017 | 13:41:12 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/dsdsfsdfsd|Mozilla Firefox|windows|||
+10-29-2017 | 13:42:07 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:42:11 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/daefsasaes|Mozilla Firefox|windows|||
+10-29-2017 | 13:42:14 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/daefsasaes|Mozilla Firefox|windows|||
+10-29-2017 | 13:42:26 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:43:18 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:43:22 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/daefsasaes|Mozilla Firefox|windows|||
+10-29-2017 | 13:43:30 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdf|Mozilla Firefox|windows|||
+10-29-2017 | 13:44:50 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:44:58 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/dsdsfsdfsd|Mozilla Firefox|windows|||
+10-29-2017 | 13:45:43 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:45:46 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/daefsasaes|Mozilla Firefox|windows|||
+10-29-2017 | 13:45:48 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:45:52 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/dsdsfsdfsd|Mozilla Firefox|windows|||
+10-29-2017 | 13:45:53 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:45:56 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdf|Mozilla Firefox|windows|||
+10-29-2017 | 13:45:57 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:46:00 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdfadf|Mozilla Firefox|windows|||
+10-29-2017 | 13:46:09 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdfadf|Mozilla Firefox|windows|||
+10-29-2017 | 13:46:44 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:46:48 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdfadf|Mozilla Firefox|windows|||
+10-29-2017 | 13:47:19 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdfadf|Mozilla Firefox|windows|||
+10-29-2017 | 13:47:20 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:47:37 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-degree-sdfadf|Mozilla Firefox|windows|||
+10-29-2017 | 13:47:40 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/sdfadf|Mozilla Firefox|windows|||
+10-29-2017 | 13:48:36 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:48:49 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:48:51 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:49:10 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/fdsfds|Mozilla Firefox|windows|||
+10-29-2017 | 13:49:11 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:49:43 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:49:44 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:50:20 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:50:22 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:50:40 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:50:47 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/eerwewqwe|Mozilla Firefox|windows|||
+10-29-2017 | 13:50:51 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:51:14 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 13:51:17 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/eerwewqwe|Mozilla Firefox|windows|||
+10-29-2017 | 13:51:19 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 14:10:55 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 14:11:16 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 14:11:46 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 14:12:15 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 14:13:10 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 14:13:12 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 14:14:23 |   192.168.4.55|161301|LogIn|http://localhost/NDUB/ndub-student/public/logout/academic.officer|Mozilla Firefox|windows|||
+10-29-2017 | 14:14:24 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 14:14:40 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 14:14:48 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+10-29-2017 | 14:14:49 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/academic.officer/home|Mozilla Firefox|windows|||
+10-29-2017 | 14:59:05 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 14:59:05 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 14:59:30 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:02:40 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:02:42 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:02:50 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-degree-hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:02:57 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:03:19 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:03:30 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:03:33 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-degree-hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:03:37 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:04:53 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:04:53 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:05:13 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:05:16 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-degree-hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:05:21 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:05:22 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:06:05 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-degree-hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:06:09 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:07:00 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:07:04 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-degree-hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:07:08 |   192.168.4.55|161301|Update Degree|http://localhost/NDUB/ndub-student/public/academic-settings/update/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 15:07:12 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:07:28 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 15:08:15 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/department|Mozilla Firefox|windows|||
+10-29-2017 | 15:08:16 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=department|Mozilla Firefox|windows|||
+10-29-2017 | 15:17:25 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=department|Mozilla Firefox|windows|||
+10-29-2017 | 15:17:28 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-department-hello_bd|Mozilla Firefox|windows|||
+10-29-2017 | 15:17:38 |   192.168.4.55|161301|Update Department|http://localhost/NDUB/ndub-student/public/academic-settings/update/department/hello_bd|Mozilla Firefox|windows|||
+10-29-2017 | 15:17:39 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=department|Mozilla Firefox|windows|||
+10-29-2017 | 15:18:49 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/program|Mozilla Firefox|windows|||
+10-29-2017 | 15:18:50 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=program|Mozilla Firefox|windows|||
+10-29-2017 | 15:19:11 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/program|Mozilla Firefox|windows|||
+10-29-2017 | 15:19:13 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=program|Mozilla Firefox|windows|||
+10-29-2017 | 15:20:28 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-program-rrr|Mozilla Firefox|windows|||
+10-29-2017 | 15:20:54 |   192.168.4.55|161301|Update Program|http://localhost/NDUB/ndub-student/public/academic-settings/update/program/rrr|Mozilla Firefox|windows|||
+10-29-2017 | 15:20:55 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=program|Mozilla Firefox|windows|||
+10-29-2017 | 15:21:21 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-semester-spring|Mozilla Firefox|windows|||
+10-29-2017 | 15:21:32 |   192.168.4.55|161301|Update Semester|http://localhost/NDUB/ndub-student/public/academic-settings/update/semester/spring|Mozilla Firefox|windows|||
+10-29-2017 | 15:21:33 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=semester|Mozilla Firefox|windows|||
+10-29-2017 | 15:22:06 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/semester|Mozilla Firefox|windows|||
+10-29-2017 | 15:22:08 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=semester|Mozilla Firefox|windows|||
+10-29-2017 | 15:22:23 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-semester-rrr|Mozilla Firefox|windows|||
+10-29-2017 | 15:22:33 |   192.168.4.55|161301|Update Semester|http://localhost/NDUB/ndub-student/public/academic-settings/update/semester/rrr|Mozilla Firefox|windows|||
+10-29-2017 | 15:22:34 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=semester|Mozilla Firefox|windows|||
+10-29-2017 | 15:23:01 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/campus|Mozilla Firefox|windows|||
+10-29-2017 | 15:23:02 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=campus|Mozilla Firefox|windows|||
+10-29-2017 | 15:23:50 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-campus-ttttt|Mozilla Firefox|windows|||
+10-29-2017 | 15:24:01 |   192.168.4.55|161301|Update Campus|http://localhost/NDUB/ndub-student/public/academic-settings/update/campus/ttttt|Mozilla Firefox|windows|||
+10-29-2017 | 15:24:02 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=campus|Mozilla Firefox|windows|||
+10-29-2017 | 15:24:54 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/building|Mozilla Firefox|windows|||
+10-29-2017 | 15:24:55 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 15:25:16 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-building-rweerw|Mozilla Firefox|windows|||
+10-29-2017 | 15:25:22 |   192.168.4.55|161301|Update Building|http://localhost/NDUB/ndub-student/public/academic-settings/update/building/rweerw|Mozilla Firefox|windows|||
+10-29-2017 | 15:25:23 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 15:26:08 |   192.168.4.55|161301|Academic Settings Form Submit|http://localhost/NDUB/ndub-student/public/academic-settings/home/room|Mozilla Firefox|windows|||
+10-29-2017 | 15:26:09 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=room|Mozilla Firefox|windows|||
+10-29-2017 | 15:27:13 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-room-01_01_b03|Mozilla Firefox|windows|||
+10-29-2017 | 15:27:40 |   192.168.4.55|161301|Update Room|http://localhost/NDUB/ndub-student/public/academic-settings/update/room/01_01_b03|Mozilla Firefox|windows|||
+10-29-2017 | 15:27:41 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=room|Mozilla Firefox|windows|||
+10-29-2017 | 15:28:57 |   192.168.4.55|161301|Edit Degree Page|http://localhost/NDUB/ndub-student/public/academic-settings/home-room-01_01_b03|Mozilla Firefox|windows|||
+10-29-2017 | 15:29:05 |   192.168.4.55|161301|Update Room|http://localhost/NDUB/ndub-student/public/academic-settings/update/room/01_01_b03|Mozilla Firefox|windows|||
+10-29-2017 | 15:29:06 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=room|Mozilla Firefox|windows|||
+10-29-2017 | 15:29:23 |   192.168.4.55|161301|Room Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/room/01_01_b03|Mozilla Firefox|windows|||
+10-29-2017 | 15:29:24 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=room|Mozilla Firefox|windows|||
+10-29-2017 | 15:30:52 |   192.168.4.55|161301|Campus Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/campus/boka|Mozilla Firefox|windows|||
+10-29-2017 | 15:30:53 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=campus|Mozilla Firefox|windows|||
+10-29-2017 | 15:41:51 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=campus|Mozilla Firefox|windows|||
+10-29-2017 | 15:43:49 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=campus|Mozilla Firefox|windows|||
+10-29-2017 | 15:49:24 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=campus|Mozilla Firefox|windows|||
+10-29-2017 | 15:49:32 |   192.168.4.55|161301|Building Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/building/love|Mozilla Firefox|windows|||
+10-29-2017 | 15:49:34 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 15:49:42 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 15:50:50 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 15:50:56 |   192.168.4.55|161301|Building Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/building/love|Mozilla Firefox|windows|||
+10-29-2017 | 15:51:00 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 15:51:21 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 15:58:52 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=building|Mozilla Firefox|windows|||
+10-29-2017 | 16:00:08 |   192.168.4.55|161301|Semester Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/semester/rrr|Mozilla Firefox|windows|||
+10-29-2017 | 16:00:09 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=semester|Mozilla Firefox|windows|||
+10-29-2017 | 16:00:37 |   192.168.4.55|161301|Department Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/department/hello_bd|Mozilla Firefox|windows|||
+10-29-2017 | 16:00:37 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=department|Mozilla Firefox|windows|||
+10-29-2017 | 16:00:58 |   192.168.4.55|161301|Department Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/department/hello_bd|Mozilla Firefox|windows|||
+10-29-2017 | 16:00:59 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=department|Mozilla Firefox|windows|||
+10-29-2017 | 16:01:05 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 16:01:25 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 16:01:27 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 16:01:31 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 16:01:32 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 16:01:50 |   192.168.4.55|161301|Program Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/program/yyy|Mozilla Firefox|windows|||
+10-29-2017 | 16:01:52 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=program|Mozilla Firefox|windows|||
+10-29-2017 | 16:02:29 |   192.168.4.55|161301|Department Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/department/hello_bd|Mozilla Firefox|windows|||
+10-29-2017 | 16:02:30 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=department|Mozilla Firefox|windows|||
+10-29-2017 | 16:03:18 |   192.168.4.55|161301|Degree Delete|http://localhost/NDUB/ndub-student/public/academic-settings/home/degree/hello|Mozilla Firefox|windows|||
+10-29-2017 | 16:03:19 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home?tab=degree|Mozilla Firefox|windows|||
+10-29-2017 | 16:03:50 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 16:04:09 |   192.168.4.55|161301|Catalouge List Ajax|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 16:04:09 |   192.168.4.55|161301|Store Degree Plan|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/store-degree-plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:04:11 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:04:50 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 16:05:01 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 16:06:18 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/category/add|Mozilla Firefox|windows|||
+10-29-2017 | 16:06:19 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:06:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:07:01 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/course_categoty/ewtter|Mozilla Firefox|windows|||
+10-29-2017 | 16:07:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/edit/ewtter|Mozilla Firefox|windows|||
+10-29-2017 | 16:07:07 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:08:28 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 16:08:29 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 16:09:34 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=11&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 16:09:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/course_add/yyy4_08_1_1|Mozilla Firefox|windows|||
+10-29-2017 | 16:09:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/edit/yyy4_08_1_1|Mozilla Firefox|windows|||
+10-29-2017 | 16:09:47 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 16:10:27 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:10:44 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 16:10:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 16:10:55 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:11:18 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:11:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 16:11:27 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:12:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:12:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 16:12:47 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/02|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:11 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:14 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/02|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:16 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:24 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:28 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/01|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:45 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:13:55 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:14:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:14:09 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/12|Mozilla Firefox|windows|||
+10-29-2017 | 16:14:12 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:14:21 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 16:14:22 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:15:27 |   192.168.4.55|161301|Catalouge List Ajax|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/ajax/12|Mozilla Firefox|windows|||
+10-29-2017 | 16:15:33 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:15:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 16:15:53 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:16:01 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 16:16:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:16:14 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:16:15 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:17:00 |   192.168.4.55|161301|Catalouge List Ajax|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:17:06 |   192.168.4.55|161301|Store Degree Plan|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/store-degree-plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:17:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:17:57 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/category/add|Mozilla Firefox|windows|||
+10-29-2017 | 16:17:59 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:18:22 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 16:18:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 16:18:33 |   192.168.4.55|161301|Delete Degree Plan|http://localhost/NDUB/ndub-student/public/academic-settings/delete-degree-plan/20837a2f-7ef6-448e-8ff1-c05ce2a50099|Mozilla Firefox|windows|||
+10-29-2017 | 16:18:34 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:18:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:18:47 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:18:53 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:04 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/12|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:15 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/12|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:26 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:33 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:19:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:01 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:24 |   192.168.4.55|161301|Catalouge List Ajax|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:24 |   192.168.4.55|161301|Store Degree Plan|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/store-degree-plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:32 |   192.168.4.55|161301|Catalouge List Ajax|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:35 |   192.168.4.55|161301|Store Degree Plan|http://localhost/NDUB/ndub-student/public/academic/catalouge-list/store-degree-plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:20:37 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:21:04 |   192.168.4.55|161301|View Degree Plan|http://localhost/NDUB/ndub-student/public/academic-settings/view/degree-plan-detail/2f21d7df-3f01-4059-a1f7-922069cc7ef5|Mozilla Firefox|windows|||
+10-29-2017 | 16:21:16 |   192.168.4.55|161301|Delete Degree Plan|http://localhost/NDUB/ndub-student/public/academic-settings/delete-degree-plan/2f21d7df-3f01-4059-a1f7-922069cc7ef5|Mozilla Firefox|windows|||
+10-29-2017 | 16:21:18 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=degree_plan|Mozilla Firefox|windows|||
+10-29-2017 | 16:24:30 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3977f7b9-98c8-4897-95d8-813f45cf714f|Mozilla Firefox|windows|||
+10-29-2017 | 16:24:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:26:09 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:26:18 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3977f7b9-98c8-4897-95d8-813f45cf714f|Mozilla Firefox|windows|||
+10-29-2017 | 16:26:20 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:28:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:28:45 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3977f7b9-98c8-4897-95d8-813f45cf714f|Mozilla Firefox|windows|||
+10-29-2017 | 16:28:47 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:29:19 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:29:26 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3977f7b9-98c8-4897-95d8-813f45cf714f|Mozilla Firefox|windows|||
+10-29-2017 | 16:29:27 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:30:16 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:30:39 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3977f7b9-98c8-4897-95d8-813f45cf714f|Mozilla Firefox|windows|||
+10-29-2017 | 16:35:50 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3977f7b9-98c8-4897-95d8-813f45cf714f|Mozilla Firefox|windows|||
+10-29-2017 | 16:43:00 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:44:36 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:46:24 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:47:07 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:47:33 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:47:39 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:50:03 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:50:03 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:50:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:50:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:50:14 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:50:59 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:51:04 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3547b0c8-5b84-46a4-97f5-73d791e3b256|Mozilla Firefox|windows|||
+10-29-2017 | 16:54:26 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 16:54:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:05 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:15 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:30 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:55 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/01|Mozilla Firefox|windows|||
+10-29-2017 | 16:55:59 |   192.168.4.55|161301|Academic Settings|http://localhost/NDUB/ndub-student/public/academic-settings/home|Mozilla Firefox|windows|||
+10-29-2017 | 16:56:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 16:56:07 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:56:20 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:56:27 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/course_categoty/ytytytyyy|Mozilla Firefox|windows|||
+10-29-2017 | 16:56:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/category/add|Mozilla Firefox|windows|||
+10-29-2017 | 16:56:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:56:55 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:00 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:14 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:16 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:35 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_categoty/ytytytyyy|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:36 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_categoty/rty|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:41 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 16:57:48 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:01:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/12|Mozilla Firefox|windows|||
+10-29-2017 | 17:02:32 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/a0cb822e-9b1b-4ba4-9a67-d9f78cb51087|Mozilla Firefox|windows|||
+10-29-2017 | 17:02:33 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:05:04 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:05:09 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/a0cb822e-9b1b-4ba4-9a67-d9f78cb51087|Mozilla Firefox|windows|||
+10-29-2017 | 17:05:10 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:06:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:06:45 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:06:55 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:06:56 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:07:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:07:19 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=11&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:07:33 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/category/add|Mozilla Firefox|windows|||
+10-29-2017 | 17:07:35 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:07:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:08:11 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:08:12 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:08:21 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:08:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:08:33 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:08:37 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:08:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:09:01 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:09:07 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:09:14 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:09:22 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:09:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:09:44 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:09:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:10:44 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:12:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:12:31 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:12:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:13:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:13:07 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:13:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:13:51 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:13:53 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:14:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:14:10 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:15:20 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:15:25 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:16:04 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:16:08 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:16:13 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:18:55 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:19:01 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:19:35 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:19:35 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:19:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:19:43 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:19:50 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:19:56 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:20:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:20:30 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:21:34 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:21:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:21:42 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:22:02 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/622a9422-49c7-42ad-8e76-c16e36d8fe48|Mozilla Firefox|windows|||
+10-29-2017 | 17:22:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:23:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:23:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:00 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:01 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:16 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/category/add|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:17 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:44 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:45 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:59 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:24:59 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:25:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:25:26 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:25:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings|Mozilla Firefox|windows|||
+10-29-2017 | 17:25:59 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:26:00 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:26:21 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:26:22 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:26:26 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:26:51 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:26:52 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:27:02 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:27:10 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:27:11 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:27:23 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/9ff6d517-f4f6-43d5-8c31-bffdadb550c6|Mozilla Firefox|windows|||
+10-29-2017 | 17:27:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:33:29 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:33:37 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:33:56 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:34:01 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:34:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:34:09 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:34:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/category/add|Mozilla Firefox|windows|||
+10-29-2017 | 17:34:26 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:34:53 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:34:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:35:13 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:35:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:35:24 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:35:34 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/08|Mozilla Firefox|windows|||
+10-29-2017 | 17:36:17 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:36:58 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:37:51 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:37:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:38:36 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/b4067dc3-3f2b-4cc7-b499-f6095ccd4b09|Mozilla Firefox|windows|||
+10-29-2017 | 17:38:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:46:37 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:18 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:29 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_add/asd2345_08_1_1|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:31 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:36 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=12&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=11&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:43 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=10&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=9&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:52 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_add/453_08_1_2|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:53 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:50:57 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=8&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:00 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=7&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:05 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=6&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=5&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:11 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=4&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:14 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=3&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:17 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=4&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:22 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_add/asd321_08_1_1|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:24 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:27 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=3&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:35 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_add/test321_08_1_1|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:37 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:41 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:44 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=3&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:47 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=1&tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_categoty/asdf|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:55 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:51:59 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_categoty/ttt|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:00 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:05 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_categoty/12345|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:09 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:15 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings/delete/course_categoty/testing|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:19 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:22 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=2&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:52:25 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?page=1&tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:53:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/category/add|Mozilla Firefox|windows|||
+10-29-2017 | 17:53:24 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_categoty|Mozilla Firefox|windows|||
+10-29-2017 | 17:53:57 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:53:58 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:54:34 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course/entry|Mozilla Firefox|windows|||
+10-29-2017 | 17:54:35 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_add|Mozilla Firefox|windows|||
+10-29-2017 | 17:54:42 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 17:54:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 17:54:56 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:56:04 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 17:59:58 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/0fb06b6c-47bb-406c-a35a-099799a2ce79|Mozilla Firefox|windows|||
+10-29-2017 | 18:00:00 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:01:30 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:01:35 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 18:01:44 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 18:01:47 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:02:36 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:02:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:02:47 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/0f722d82-3b4c-4539-9b1a-210fc1b2222b|Mozilla Firefox|windows|||
+10-29-2017 | 18:02:48 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:04:41 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 18:04:52 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 18:04:53 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:06:21 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:06:26 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/3e6559c4-e4f5-485c-b467-ea76ae27b036|Mozilla Firefox|windows|||
+10-29-2017 | 18:06:27 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:07:30 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 18:07:36 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 18:07:38 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:07:45 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/a4934154-0982-49fa-b933-c4afbc0d37b7|Mozilla Firefox|windows|||
+10-29-2017 | 18:07:46 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:07:54 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 18:08:04 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 18:08:06 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:08:29 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:08:37 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/534f8575-6155-463a-8f03-cedbefbfef21|Mozilla Firefox|windows|||
+10-29-2017 | 18:08:39 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:09:20 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 18:09:28 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 18:09:30 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:09:35 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/93e80a13-7827-4c23-aa2c-88b0dab40f8d|Mozilla Firefox|windows|||
+10-29-2017 | 18:09:36 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:10:08 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:10:11 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-list/ajax/03|Mozilla Firefox|windows|||
+10-29-2017 | 18:10:21 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-category/update|Mozilla Firefox|windows|||
+10-29-2017 | 18:10:23 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||
+10-29-2017 | 18:10:28 |   192.168.4.55|161301|Delete Course Catalouge|http://localhost/NDUB/ndub-student/public/academic-settings/delete-course-catalouge/a39e6832-adce-415a-b1c6-31bd68c2740c|Mozilla Firefox|windows|||
+10-29-2017 | 18:10:30 |   192.168.4.55|161301|Academic|http://localhost/NDUB/ndub-student/public/academic/course-settings?tab=course_catalogue|Mozilla Firefox|windows|||

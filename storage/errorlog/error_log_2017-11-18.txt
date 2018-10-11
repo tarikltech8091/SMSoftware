@@ -1,0 +1,1 @@
+11-18-2017 | 12:52:51 |   192.168.4.55|161101|http://localhost/NDUB/ndub-student/public/accounts/admission/payemnt-undone/A181014417588|Message : Trying to get property of non-object, File : G:\xampp\htdocs\NDUB\ndub-student\app\Http\Controllers\AccountsController.php, Line : 828

@@ -1,0 +1,7 @@
+12-23-2017 | 11:19:57 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-23-2017 | 11:20:33 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-23-2017 | 11:20:46 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-23-2017 | 11:20:48 |   192.168.4.55|161201|Registrar Existing Student|http://localhost/NDUB/ndub-student/public/register/existing/student|Mozilla Firefox|windows|||
+12-23-2017 | 11:21:32 |   192.168.4.55|161201|Register Existing Student Batch By Program|http://localhost/NDUB/ndub-student/public/register/existing/student/batch/program-01|Mozilla Firefox|windows|||
+12-23-2017 | 11:21:35 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-01/batch-2|Mozilla Firefox|windows|||
+12-23-2017 | 11:21:40 |   192.168.4.55|161201|Register Existing Student By Batch|http://localhost/NDUB/ndub-student/public/register/existing/batch-student/program-01/batch-13|Mozilla Firefox|windows|||

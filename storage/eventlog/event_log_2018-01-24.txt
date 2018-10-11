@@ -1,0 +1,2 @@
+01-24-2018 | 12:16:31 |   192.168.4.55|1702001|http://localhost/NDUB/ndub-student/public/login|update,users|1
+01-24-2018 | 12:16:32 |   192.168.4.55|1702001|http://localhost/NDUB/ndub-student/public/login|insert,auth_log|{"auth_tran_code":"ac2c9705-d5f7-4d46-b340-868ca23c48c9","auth_client_ip":"192.168.4.55","auth_user_id":"1702001","auth_browser":"Mozilla Firefox","auth_platform":"windows","auth_city":"","auth_division":"","auth_country":"","auth_type":"Log In","created_at":"2018-01-24 12:16:31","updated_at":"2018-01-24 12:16:31"}

@@ -1,0 +1,11 @@
+12-03-2017 | 17:33:51 |   192.168.4.55|161201|Log Out|Mozilla Firefox|windows|||
+12-03-2017 | 17:33:59 |   192.168.4.55|161501|Log In|Mozilla Firefox|windows|||
+12-03-2017 | 17:34:21 |   192.168.4.55|161501|Log Out|Mozilla Firefox|windows|||
+12-03-2017 | 17:34:31 |   192.168.4.55|235463266|Log In|Mozilla Firefox|windows|||
+12-03-2017 | 17:38:30 |   192.168.4.55|235463266|Log Out|Mozilla Firefox|windows|||
+12-03-2017 | 18:04:22 |   192.168.4.55|161201|Log In|Mozilla Firefox|windows|||
+12-03-2017 | 18:04:29 |   192.168.4.55|161201|Log Out|Mozilla Firefox|windows|||
+12-03-2017 | 18:04:43 |   192.168.4.55|161501|Log In|Mozilla Firefox|windows|||
+12-03-2017 | 18:05:08 |   192.168.4.55|161501|Log Out|Mozilla Firefox|windows|||
+12-03-2017 | 18:05:14 |   192.168.4.55|33426236|Log In|Mozilla Firefox|windows|||
+12-03-2017 | 22:05:09 |   192.168.1.102|161201|Log In|Google Chrome|windows|||

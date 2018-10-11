@@ -1,0 +1,8 @@
+01-13-2018 | 11:13:51 |   192.168.4.55|guest|Home|http://localhost/NDUB/ndub-student/public|Mozilla Firefox|windows|||
+01-13-2018 | 12:44:59 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-13-2018 | 13:03:45 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-13-2018 | 13:03:52 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-13-2018 | 13:29:03 |   192.168.4.55|161201|Employee Registration|http://localhost/NDUB/ndub-student/public/register/employee-registration|Mozilla Firefox|windows|||
+01-13-2018 | 13:29:11 |   192.168.4.55|161201|Registrar Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+01-13-2018 | 14:09:07 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+01-13-2018 | 17:38:07 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||

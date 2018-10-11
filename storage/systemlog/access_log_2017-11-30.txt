@@ -1,0 +1,75 @@
+11-30-2017 | 12:45:48 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-30-2017 | 12:46:17 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-30-2017 | 12:47:23 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-30-2017 | 12:47:24 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-30-2017 | 12:47:26 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 12:47:56 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public//faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 12:47:57 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 12:48:56 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 12:49:00 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=0&attendance_date_value=2017-11-30&course=0&program=0&semester=0|Mozilla Firefox|windows|||
+11-30-2017 | 12:52:10 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 12:54:52 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 12:55:27 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 12:56:30 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/percent|Mozilla Firefox|windows|||
+11-30-2017 | 12:58:05 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 12:59:13 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=0&attendance_date_value=2017-11-30&course=ENG1103&program=0&semester=0|Mozilla Firefox|windows|||
+11-30-2017 | 13:00:21 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=0&attendance_date_value=2017-11-30&course=ENG1103&program=0&semester=0|Mozilla Firefox|windows|||
+11-30-2017 | 13:00:30 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:00:47 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=0&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:00:55 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:03:59 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:04:26 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:06:19 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:06:35 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:06:45 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:07:41 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:10:01 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:10:22 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:10:42 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:10:54 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:11:16 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:11:49 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:11:50 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-30-2017 | 13:11:51 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:12:14 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:12:17 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-30-2017 | 13:12:18 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:13:34 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:13:38 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:13:39 |   192.168.4.55|1702001|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-30-2017 | 13:13:40 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:13:55 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:15:02 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:15:08 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:15:09 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:15:21 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:15:23 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:24:25 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:24:26 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:32:43 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/percent|Mozilla Firefox|windows|||
+11-30-2017 | 13:32:49 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:32:54 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:32:56 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:33:03 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-28&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:33:09 |   192.168.4.55|1702001|Faculty Attendance Submit|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list/submit|Mozilla Firefox|windows|||
+11-30-2017 | 13:33:12 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-28&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:33:43 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:35:48 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:35:52 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:35:59 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:36:38 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/percent?academic_year=2018&course=ENG1103&program=01&semester=2|Mozilla Firefox|windows|||
+11-30-2017 | 13:37:23 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/percent?academic_year=2018&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 13:38:17 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 13:38:48 |   192.168.4.55|1702001|Faculty Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 13:41:06 |   192.168.4.55|1702001|Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 13:41:28 |   192.168.4.55|1702001|Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 13:41:50 |   192.168.4.55|1702001|Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 13:42:09 |   192.168.4.55|1702001|Student Attendance Percent|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/percent|Mozilla Firefox|windows|||
+11-30-2017 | 13:42:32 |   192.168.4.55|1702001|Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list|Mozilla Firefox|windows|||
+11-30-2017 | 14:04:09 |   192.168.4.55|1702001|Student Attendance Percent|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/percent?academic_year=2018&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 14:21:44 |   192.168.4.55|1702001|Student Attendance List|http://localhost/NDUB/ndub-student/public/faculty/student/attendance/list?academic_year=2018&attendance_date_value=2017-11-30&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||
+11-30-2017 | 16:05:43 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 16:05:46 |   192.168.4.55|1702001|Faculty Dashboard|http://localhost/NDUB/ndub-student/public/faculty/naim..isalam/home|Mozilla Firefox|windows|||
+11-30-2017 | 16:05:49 |   192.168.4.55|1702001|Course Advising|http://localhost/NDUB/ndub-student/public/faculty/course-advising|Mozilla Firefox|windows|||
+11-30-2017 | 16:05:52 |   192.168.4.55|1702001|Course Advising|http://localhost/NDUB/ndub-student/public/faculty/course-advising|Mozilla Firefox|windows|||
+11-30-2017 | 16:37:49 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||

@@ -1,0 +1,1 @@
+11-06-2017 | 11:16:06 |   192.168.4.55|182010002|http://localhost/NDUB/ndub-student/public/login|Message : Undefined variable: i, File : G:\xampp\htdocs\NDUB\ndub-student\app\System.php, Line : 466

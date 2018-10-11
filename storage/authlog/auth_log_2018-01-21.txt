@@ -1,0 +1,8 @@
+01-21-2018 | 12:26:12 |   192.168.4.55|161201|Log Out|Mozilla Firefox|windows|||
+01-21-2018 | 12:35:26 |   192.168.4.55|161101|Log Out|Mozilla Firefox|windows|||
+01-21-2018 | 12:35:36 |   192.168.4.55|161501|Log In|Mozilla Firefox|windows|||
+01-21-2018 | 12:37:05 |   192.168.4.55|161501|Log Out|Mozilla Firefox|windows|||
+01-21-2018 | 12:37:13 |   192.168.4.55|181010001|Log In|Mozilla Firefox|windows|||
+01-21-2018 | 12:38:23 |   192.168.4.55|181010001|Log Out|Mozilla Firefox|windows|||
+01-21-2018 | 12:44:05 |   192.168.4.55|1702001|Log In|Mozilla Firefox|windows|||
+01-21-2018 | 17:25:08 |   192.168.4.55|161201|Log In|Mozilla Firefox|windows|||

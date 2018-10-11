@@ -1,0 +1,18 @@
+11-29-2017 | 10:59:57 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-29-2017 | 11:29:08 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-29-2017 | 12:59:36 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:07 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:09 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:11 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:15 |   192.168.4.55|161101|LogIn|http://localhost/NDUB/ndub-student/public/logout/deal.gomes|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:17 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:23 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:25 |   192.168.4.55|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:28 |   192.168.4.55|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:32 |   192.168.4.55|161201|Time Slot|http://localhost/NDUB/ndub-student/public/register/univ-time-slot|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:37 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:37 |   192.168.4.55|161201|Class Schedule|http://localhost/NDUB/ndub-student/public/register/class-schedule|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:41 |   192.168.4.55|161201|Ajax Class Schedule View|http://localhost/NDUB/ndub-student/public/register/ajax-class-schedule-view/AC01-0203|Mozilla Firefox|windows|||
+11-29-2017 | 13:00:44 |   192.168.4.55|161201|Schedule Download|http://localhost/NDUB/ndub-student/public/register/class/schedule/download?program=0|Mozilla Firefox|windows|||
+11-29-2017 | 17:15:49 |   192.168.4.55|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Google Chrome|windows|||
+11-29-2017 | 17:15:53 |   192.168.4.55|161101|Accounts Dashboard|http://localhost/NDUB/ndub-student/public/accounts/deal.gomes/home|Google Chrome|windows|||

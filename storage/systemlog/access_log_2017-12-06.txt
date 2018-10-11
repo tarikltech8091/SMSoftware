@@ -1,0 +1,6 @@
+12-06-2017 | 17:42:41 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-06-2017 | 17:42:55 |   127.0.0.1|guest|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-06-2017 | 17:42:57 |   127.0.0.1|161201|LogIn|http://localhost/NDUB/ndub-student/public/login|Mozilla Firefox|windows|||
+12-06-2017 | 17:42:59 |   127.0.0.1|161201|Register Dashboard|http://localhost/NDUB/ndub-student/public/register/Register/home|Mozilla Firefox|windows|||
+12-06-2017 | 17:43:04 |   127.0.0.1|161201|Register Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list|Mozilla Firefox|windows|||
+12-06-2017 | 17:43:17 |   127.0.0.1|161201|Register Attendance List|http://localhost/NDUB/ndub-student/public/register/student/attendance/list?academic_year=2018&attendance_date_value=2017-12-06&course=ENG1103&program=01&semester=1|Mozilla Firefox|windows|||

@@ -1,0 +1,4 @@
+12-19-2017 | 10:53:23 |   192.168.4.55|161101|Log In|Mozilla Firefox|windows|||
+12-19-2017 | 11:44:59 |   192.168.4.55|161101|Log Out|Mozilla Firefox|windows|||
+12-19-2017 | 11:45:02 |   192.168.4.55|161201|Log Out|Google Chrome|windows|||
+12-19-2017 | 11:45:20 |   192.168.4.55|161201|Log In|Mozilla Firefox|windows|||

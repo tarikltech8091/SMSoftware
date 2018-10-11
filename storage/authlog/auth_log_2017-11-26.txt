@@ -1,0 +1,6 @@
+11-26-2017 | 17:58:05 |   192.168.4.55|161201|Log Out|Mozilla Firefox|windows|||
+11-26-2017 | 17:58:12 |   192.168.4.55|182010001|Log In|Mozilla Firefox|windows|||
+11-26-2017 | 17:58:52 |   192.168.4.55|182010001|Log Out|Mozilla Firefox|windows|||
+11-26-2017 | 17:59:02 |   192.168.4.55|17001|Log In|Mozilla Firefox|windows|||
+11-26-2017 | 17:59:08 |   192.168.4.55|17001|Log Out|Mozilla Firefox|windows|||
+11-26-2017 | 17:59:36 |   192.168.4.55|1702001|Log In|Mozilla Firefox|windows|||
